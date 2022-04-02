@@ -1,0 +1,1 @@
+D:\Coding\C#\Visual\EventsWPF\EventsWPF\EventsWPF.csproj;x86

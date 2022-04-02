@@ -1,0 +1,3 @@
+D:\Coding\C#\EasyCSharp2\EasyCSharp2\obj\Debug\EasyCSharp2.csproj.AssemblyReference.cache
+D:\Coding\C#\EasyCSharp2\EasyCSharp2\obj\Debug\EasyCSharp2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\EasyCSharp2\EasyCSharp2\obj\Debug\EasyCSharp2.csproj.CoreCompileInputs.cache

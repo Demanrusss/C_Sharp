@@ -1,0 +1,8 @@
+D:\Coding\C#\Listing3_2\Listing3_2\bin\Debug\Listing3_2.exe.config
+D:\Coding\C#\Listing3_2\Listing3_2\bin\Debug\Listing3_2.exe
+D:\Coding\C#\Listing3_2\Listing3_2\bin\Debug\Listing3_2.pdb
+D:\Coding\C#\Listing3_2\Listing3_2\obj\Debug\Listing3_2.csproj.AssemblyReference.cache
+D:\Coding\C#\Listing3_2\Listing3_2\obj\Debug\Listing3_2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Listing3_2\Listing3_2\obj\Debug\Listing3_2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Listing3_2\Listing3_2\obj\Debug\Listing3_2.exe
+D:\Coding\C#\Listing3_2\Listing3_2\obj\Debug\Listing3_2.pdb

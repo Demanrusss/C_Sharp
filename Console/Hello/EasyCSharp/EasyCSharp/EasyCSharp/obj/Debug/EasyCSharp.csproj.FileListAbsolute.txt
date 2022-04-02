@@ -1,0 +1,7 @@
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\bin\Debug\EasyCSharp.exe
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\bin\Debug\EasyCSharp.pdb
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\obj\Debug\EasyCSharp.csproj.AssemblyReference.cache
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\obj\Debug\EasyCSharp.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\obj\Debug\EasyCSharp.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\obj\Debug\EasyCSharp.exe
+D:\Coding\C#\Hello\EasyCSharp\EasyCSharp\EasyCSharp\obj\Debug\EasyCSharp.pdb

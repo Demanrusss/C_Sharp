@@ -1,0 +1,1 @@
+D:\Coding\C#\Visual\WorkingWithData\WorkingWithData\WorkingWithData.csproj;x86

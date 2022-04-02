@@ -1,0 +1,8 @@
+D:\Coding\C#\NestedClass2\NestedClass2\bin\Debug\NestedClass2.exe.config
+D:\Coding\C#\NestedClass2\NestedClass2\bin\Debug\NestedClass2.exe
+D:\Coding\C#\NestedClass2\NestedClass2\bin\Debug\NestedClass2.pdb
+D:\Coding\C#\NestedClass2\NestedClass2\obj\Debug\NestedClass2.csproj.AssemblyReference.cache
+D:\Coding\C#\NestedClass2\NestedClass2\obj\Debug\NestedClass2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\NestedClass2\NestedClass2\obj\Debug\NestedClass2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\NestedClass2\NestedClass2\obj\Debug\NestedClass2.exe
+D:\Coding\C#\NestedClass2\NestedClass2\obj\Debug\NestedClass2.pdb

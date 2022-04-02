@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="HalloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HalloWorld"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Border Background="Red" Grid.Column="1" Grid.Row="1"></Border>
+        <StackPanel>
+            <TextBlock Text="First element" />
+            <TextBlock Text="Second element" />
+            <TextBlock Text="Third element" />
+        </StackPanel>
+        <Canvas>
+            <Button Canvas.Left="100" Canvas.Top="50"
+                    Click="Button_Click" Background="Green">
+                Click me
+            </Button>
+        </Canvas>
+    </Grid>
+</Page>
