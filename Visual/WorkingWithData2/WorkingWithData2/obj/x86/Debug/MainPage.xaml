@@ -28,7 +28,10 @@
                                                                   />
         <TextBox x:ConnectionId='3' Grid.Column="1" Grid.Row="1" Margin="30" 
                                                                  />
-        <Button x:ConnectionId='4' Grid.Column="2" Grid.Row="3"                     >
+        <TextBlock x:ConnectionId='4' Grid.Column="2" Grid.Row="0" HorizontalAlignment="Center"
+                   VerticalAlignment="Center" 
+                                                                    />
+        <Button x:ConnectionId='5' Grid.Column="2" Grid.Row="3"                     >
             Click on me
         </Button>
     </Grid>
