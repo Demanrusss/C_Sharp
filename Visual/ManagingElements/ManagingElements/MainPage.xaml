@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="ManagingElements.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ManagingElements"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <ListBox SelectionMode="Extended" Margin="30">
+            <ListBoxItem>Element 1</ListBoxItem>
+            <ListBoxItem>Element 2</ListBoxItem>
+            <ListBoxItem>Element 3</ListBoxItem>
+        </ListBox>
+        <ListBox Margin="30" BorderBrush="Black" Grid.Column="1" Grid.Row="0" 
+                 SelectionMode="Extended">
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Assets/ball.png" Margin="0, 0, 10, 0" />
+                    <TextBlock>ListBox Item #1</TextBlock>
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock VerticalAlignment="Center" Width="120">Enter a name</TextBlock>
+                    <TextBox Width="200" />
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock VerticalAlignment="Center" Width="120">And also like that</TextBlock>
+                    <Button Padding="75, 4">Button</Button>
+                </StackPanel>
+            </ListBoxItem>
+        </ListBox>
+    </Grid>
+</Page>
