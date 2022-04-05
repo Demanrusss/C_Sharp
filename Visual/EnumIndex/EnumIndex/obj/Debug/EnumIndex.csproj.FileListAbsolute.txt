@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.Properties.Resources.resources
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\bin\Debug\EnumIndex.exe.config
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\bin\Debug\EnumIndex.exe
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\bin\Debug\EnumIndex.pdb
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.Form1.resources
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.exe
+D:\Coding\C#\Visual\EnumIndex\EnumIndex\obj\Debug\EnumIndex.pdb

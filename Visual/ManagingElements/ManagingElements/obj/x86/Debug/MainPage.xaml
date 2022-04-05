@@ -1,8 +1,9 @@
-﻿<Page
+﻿<Page x:ConnectionId='1'
     x:Class="ManagingElements.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:ManagingElements"
+    xmlns:local1="using:ManagingElements.Model"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
@@ -18,16 +19,16 @@
             <RowDefinition Height="1*" />
             <RowDefinition Height="1*" />
         </Grid.RowDefinitions>
-        <ListBox SelectionMode="Extended" Margin="30">
-            <ListBoxItem>Element 1</ListBoxItem>
-            <ListBoxItem>Element 2</ListBoxItem>
-            <ListBoxItem>Element 3</ListBoxItem>
+        <ListBox x:ConnectionId='2' Name="bindningListBoxWithoutBinding" SelectionMode="Extended" Margin="30">
+            <ListBoxItem Tag="Num 1">Element 1</ListBoxItem>
+            <ListBoxItem Tag="Num 2">Element 2</ListBoxItem>
+            <ListBoxItem Tag="Num 3">Element 3</ListBoxItem>
         </ListBox>
-        <ListBox Margin="30" BorderBrush="Black" Grid.Column="1" Grid.Row="0" 
-                 SelectionMode="Extended">
+        <ListBox Margin="30" BorderBrush="Black" 
+                 Grid.Column="1" Grid.Row="0" SelectionMode="Extended">
             <ListBoxItem>
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="Assets/ball.png" Margin="0, 0, 10, 0" />
+                    <Image Source="Assets/ball.png" Width="20" Margin="0, 0, 10, 0" />
                     <TextBlock>ListBox Item #1</TextBlock>
                 </StackPanel>
             </ListBoxItem>
@@ -44,6 +45,32 @@
                 </StackPanel>
             </ListBoxItem>
         </ListBox>
+        <ListBox x:ConnectionId='3' Name="bindingListBox"                                              Grid.Column="0" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate                            >
+                    <StackPanel x:ConnectionId='8' Orientation="Horizontal">
+                        <Image x:ConnectionId='9'                        HorizontalAlignment="Left" Width="20"/>
+                        <TextBlock x:ConnectionId='10'                           HorizontalAlignment="Left" Width="120">
+                            
+                        </TextBlock>
+                        <ProgressBar x:ConnectionId='11'                             Width="120"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:ConnectionId='4'                      Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center">
+            Add a string
+        </Button>
+        <Button x:ConnectionId='5'                                  Grid.Column="1" Grid.Row="1" 
+                VerticalAlignment="Top" HorizontalAlignment="Center">
+            What is highlighted
+        </Button>
+        <TextBlock x:ConnectionId='6'                                                                
+                   Grid.Column="1" Grid.Row="2" Width="500" Height="30" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBlock x:ConnectionId='7'                                                                               
+                   Grid.Column="1" Grid.Row="2" Width="500" Height="30" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0, 30, 0, 0" />
     </Grid>
 </Page>
 
