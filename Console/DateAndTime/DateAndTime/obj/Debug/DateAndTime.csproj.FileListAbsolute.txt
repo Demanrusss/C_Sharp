@@ -1,0 +1,11 @@
+D:\Coding\C#\Console\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+D:\Coding\C#\Console\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+D:\Coding\C#\Console\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.Form1.resources
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.Properties.Resources.resources
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.GenerateResource.cache
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+D:\Coding\C#\Console\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
