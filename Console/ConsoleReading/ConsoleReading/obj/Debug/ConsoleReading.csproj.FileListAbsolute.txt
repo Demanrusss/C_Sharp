@@ -1,0 +1,8 @@
+D:\Coding\C#\ConsoleReading\ConsoleReading\bin\Debug\ConsoleReading.exe.config
+D:\Coding\C#\ConsoleReading\ConsoleReading\bin\Debug\ConsoleReading.exe
+D:\Coding\C#\ConsoleReading\ConsoleReading\bin\Debug\ConsoleReading.pdb
+D:\Coding\C#\ConsoleReading\ConsoleReading\obj\Debug\ConsoleReading.csproj.AssemblyReference.cache
+D:\Coding\C#\ConsoleReading\ConsoleReading\obj\Debug\ConsoleReading.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\ConsoleReading\ConsoleReading\obj\Debug\ConsoleReading.csproj.CoreCompileInputs.cache
+D:\Coding\C#\ConsoleReading\ConsoleReading\obj\Debug\ConsoleReading.exe
+D:\Coding\C#\ConsoleReading\ConsoleReading\obj\Debug\ConsoleReading.pdb

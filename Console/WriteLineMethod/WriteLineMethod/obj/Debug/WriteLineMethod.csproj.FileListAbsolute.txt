@@ -1,0 +1,8 @@
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\bin\Debug\WriteLineMethod.exe.config
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\bin\Debug\WriteLineMethod.exe
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\bin\Debug\WriteLineMethod.pdb
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\obj\Debug\WriteLineMethod.csproj.AssemblyReference.cache
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\obj\Debug\WriteLineMethod.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\obj\Debug\WriteLineMethod.csproj.CoreCompileInputs.cache
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\obj\Debug\WriteLineMethod.exe
+D:\Coding\C#\WriteLineMethod\WriteLineMethod\obj\Debug\WriteLineMethod.pdb

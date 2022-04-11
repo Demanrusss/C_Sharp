@@ -1,0 +1,8 @@
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\bin\Debug\PropertiesInitialization.exe.config
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\bin\Debug\PropertiesInitialization.exe
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\bin\Debug\PropertiesInitialization.pdb
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\obj\Debug\PropertiesInitialization.csproj.AssemblyReference.cache
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\obj\Debug\PropertiesInitialization.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\obj\Debug\PropertiesInitialization.csproj.CoreCompileInputs.cache
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\obj\Debug\PropertiesInitialization.exe
+D:\Coding\C#\PropertiesInitialization\PropertiesInitialization\obj\Debug\PropertiesInitialization.pdb
