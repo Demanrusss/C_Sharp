@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\bin\Debug\MyPointProject2.exe.config
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\bin\Debug\MyPointProject2.exe
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\bin\Debug\MyPointProject2.pdb
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\obj\Debug\MyPointProject2.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\obj\Debug\MyPointProject2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\obj\Debug\MyPointProject2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\obj\Debug\MyPointProject2.exe
+D:\Coding\C#\Console\MyPointProject2\MyPointProject2\obj\Debug\MyPointProject2.pdb
