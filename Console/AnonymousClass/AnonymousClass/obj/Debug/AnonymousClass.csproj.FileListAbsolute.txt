@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\obj\Debug\AnonymousClass.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\obj\Debug\AnonymousClass.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\obj\Debug\AnonymousClass.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\bin\Debug\AnonymousClass.exe.config
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\bin\Debug\AnonymousClass.exe
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\bin\Debug\AnonymousClass.pdb
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\obj\Debug\AnonymousClass.exe
+D:\Coding\C#\Console\AnonymousClass\AnonymousClass\obj\Debug\AnonymousClass.pdb
