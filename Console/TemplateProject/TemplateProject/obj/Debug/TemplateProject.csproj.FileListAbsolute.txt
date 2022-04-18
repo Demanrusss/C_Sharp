@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\TemplateProject\TemplateProject\bin\Debug\TemplateProject.exe.config
+D:\Coding\C#\Console\TemplateProject\TemplateProject\bin\Debug\TemplateProject.exe
+D:\Coding\C#\Console\TemplateProject\TemplateProject\bin\Debug\TemplateProject.pdb
+D:\Coding\C#\Console\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\TemplateProject\TemplateProject\obj\Debug\TemplateProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\TemplateProject\TemplateProject\obj\Debug\TemplateProject.exe
+D:\Coding\C#\Console\TemplateProject\TemplateProject\obj\Debug\TemplateProject.pdb
