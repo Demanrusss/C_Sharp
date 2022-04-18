@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\InterpolationString\InterpolationString\bin\Debug\InterpolationString.exe.config
+D:\Coding\C#\Console\InterpolationString\InterpolationString\bin\Debug\InterpolationString.exe
+D:\Coding\C#\Console\InterpolationString\InterpolationString\bin\Debug\InterpolationString.pdb
+D:\Coding\C#\Console\InterpolationString\InterpolationString\obj\Debug\InterpolationString.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\InterpolationString\InterpolationString\obj\Debug\InterpolationString.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\InterpolationString\InterpolationString\obj\Debug\InterpolationString.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\InterpolationString\InterpolationString\obj\Debug\InterpolationString.exe
+D:\Coding\C#\Console\InterpolationString\InterpolationString\obj\Debug\InterpolationString.pdb
