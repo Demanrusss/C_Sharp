@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\ConversionProject\ConversionProject\bin\Debug\ConversionProject.exe.config
+D:\Coding\C#\Console\ConversionProject\ConversionProject\bin\Debug\ConversionProject.exe
+D:\Coding\C#\Console\ConversionProject\ConversionProject\bin\Debug\ConversionProject.pdb
+D:\Coding\C#\Console\ConversionProject\ConversionProject\obj\Debug\ConversionProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\ConversionProject\ConversionProject\obj\Debug\ConversionProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\ConversionProject\ConversionProject\obj\Debug\ConversionProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\ConversionProject\ConversionProject\obj\Debug\ConversionProject.exe
+D:\Coding\C#\Console\ConversionProject\ConversionProject\obj\Debug\ConversionProject.pdb
