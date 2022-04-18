@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\TupleProject\TupleProject\obj\Debug\TupleProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\TupleProject\TupleProject\obj\Debug\TupleProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\TupleProject\TupleProject\obj\Debug\TupleProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\TupleProject\TupleProject\bin\Debug\TupleProject.exe.config
+D:\Coding\C#\Console\TupleProject\TupleProject\bin\Debug\TupleProject.exe
+D:\Coding\C#\Console\TupleProject\TupleProject\bin\Debug\TupleProject.pdb
+D:\Coding\C#\Console\TupleProject\TupleProject\obj\Debug\TupleProject.exe
+D:\Coding\C#\Console\TupleProject\TupleProject\obj\Debug\TupleProject.pdb
