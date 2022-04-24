@@ -11,21 +11,23 @@ namespace InterfaceProject
         // Methods of class Person
         public string name;
         public string surname;
+
         public string FirstName
         {
             get { return name; }
             set { name = value; }
         }
+
         public string LastName
         {
             get { return surname; }
             set { surname = value; }
         }
 
-        public Person(string firstname, string lastsurname)
+        public Person(string firstname, string lastname)
         {
-            FirstName = name;
-            LastName = surname;
+            FirstName = firstname;
+            LastName = lastname;
         }
 
         // Realization of interface

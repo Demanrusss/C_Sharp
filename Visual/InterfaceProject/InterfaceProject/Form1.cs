@@ -28,7 +28,7 @@ namespace InterfaceProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            outputLabel.Text = person.FirstName;
+            outputLabel.Text = person.FirstName + " " + person.LastName;
         }
 
         // Adding money to purse
@@ -47,7 +47,5 @@ namespace InterfaceProject
             purse.DecMoney((int)numericUpDown.Value);
             sumLabel.Text = purse.Sum.ToString();
         }
-
-
     }
 }
