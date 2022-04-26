@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DEMANRUSSS-PC</Machine>
+    <Machine>DMITRIY_Y</Machine>
     <WindowsUser>User</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>16C3D9431EEEC28308E038FAA910B3F3AAE6C8B6E136DA7DE0BE720540EA49D8</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>0887832F8332604DB48F374672515C468EABCF8E62C35619B527462A6020A9D6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>3fcd61fa-7a65-46d6-9ca9-73980b78990c_1.0.0.0_x86__4sdaedqydyjdm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>3fcd61fa-7a65-46d6-9ca9-73980b78990c_4sdaedqydyjdm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>3fcd61fa-7a65-46d6-9ca9-73980b78990c</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-05T06:44:09.831</Modified>
+      <Modified>2022-04-26T10:47:51.379</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\ComboboxSample.exe">
       <PackagePath>entrypoint\ComboboxSample.exe</PackagePath>
-      <Modified>2022-04-05T06:44:09.384</Modified>
+      <Modified>2022-04-26T10:47:50.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -496,61 +496,61 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\ball.png">
       <PackagePath>Assets\ball.png</PackagePath>
-      <Modified>2022-04-04T10:53:37.774</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\construct.png">
       <PackagePath>Assets\construct.png</PackagePath>
-      <Modified>2022-04-04T11:15:52.090</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-03-29T15:33:30.307</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.309</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.310</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.310</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.311</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.311</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.312</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-04-05T04:46:31.891</Modified>
+      <Modified>2022-04-08T10:50:36.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\ComboboxSample.xr.xml">
       <PackagePath>ComboboxSample.xr.xml</PackagePath>
-      <Modified>2022-04-05T06:43:38.760</Modified>
+      <Modified>2022-04-26T10:47:50.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-04-05T06:33:03.186</Modified>
+      <Modified>2022-04-26T10:42:02.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-05T06:44:09.341</Modified>
+      <Modified>2022-04-26T10:47:50.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -558,11 +558,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-04-05T06:33:04.913</Modified>
+      <Modified>2022-04-26T10:33:24.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\ComboboxSample\ComboboxSample\bin\x86\Debug\Core\ComboboxSample.exe">
       <PackagePath>ComboboxSample.exe</PackagePath>
-      <Modified>2022-04-05T06:44:09.827</Modified>
+      <Modified>2022-04-26T10:47:51.377</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

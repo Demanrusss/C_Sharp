@@ -1,4 +1,6 @@
-﻿namespace InterfaceProject
+﻿using System.Drawing;
+
+namespace InterfaceProject
 {
     partial class Form1
     {
