@@ -1,19 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using InterfaceProject2.Interfaces;
 
 namespace InterfaceProject2
 {
-    internal class Person : IPurse
+    class Person : IPurse, ITriplePurse, IClone
     {
-        // Announcing variables
+        // Declaring variables
         private string name;
         private string surname;
         private int sum;
-        
-        // Announcing Properties
+
+        // Declaring Properties
         public string FirstName
         {
             get { return name; }
@@ -30,22 +27,42 @@ namespace InterfaceProject2
             set { sum = value; }
         }
 
-        // Announcing constructor
-        public Person(string name, string surname)
+        // Declaring constructor
+        public Person(string firstName, string lastName)
         {
-            FirstName = name;
-            LastName = surname;
+            FirstName = firstName;
+            LastName = lastName;
         }
 
-        // Announcing methods
-        public void AddMoney(int a)
+        // Declaring methods
+        public void AddMoney(int amount)
         {
-            Sum += sum;
+            Sum += amount * 2;
         }
-        public int DecMoney(int a)
+        void IPurse.AddMoney(int amount)
         {
-            Sum -= sum;
-            return Sum;
+            Sum += amount;
+        }
+        public void DecMoney(int amount)
+        {
+            Sum -= amount * 2;
+        }
+        void IPurse.DecMoney(int amount)
+        {
+            Sum -= amount;
+        }
+        void ITriplePurse.AddMoney(int amount)
+        {
+            Sum += amount * 3;
+        }
+        void ITriplePurse.DecMoney(int amount)
+        {
+            Sum -= amount * 3;
+        }
+        object IClone.Clone()
+        {
+            Person p = new Person(this.FirstName, this.LastName);
+            return p;
         }
     }
 }

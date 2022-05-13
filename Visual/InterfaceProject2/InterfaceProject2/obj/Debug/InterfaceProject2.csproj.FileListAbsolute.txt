@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.Form1.resources
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.Properties.Resources.resources
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\bin\Debug\InterfaceProject2.exe.config
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\bin\Debug\InterfaceProject2.exe
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\bin\Debug\InterfaceProject2.pdb
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.exe
+D:\Coding\C#\Visual\InterfaceProject2\InterfaceProject2\obj\Debug\InterfaceProject2.pdb
