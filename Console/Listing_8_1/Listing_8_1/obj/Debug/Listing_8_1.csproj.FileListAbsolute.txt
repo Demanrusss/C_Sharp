@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\bin\Debug\Listing_8_1.exe.config
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\bin\Debug\Listing_8_1.exe
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\bin\Debug\Listing_8_1.pdb
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\obj\Debug\Listing_8_1.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\obj\Debug\Listing_8_1.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\obj\Debug\Listing_8_1.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\obj\Debug\Listing_8_1.exe
+D:\Coding\C#\Console\Listing_8_1\Listing_8_1\obj\Debug\Listing_8_1.pdb
