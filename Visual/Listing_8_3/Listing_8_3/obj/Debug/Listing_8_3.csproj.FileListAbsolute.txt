@@ -1,0 +1,10 @@
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.Properties.Resources.resources
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\bin\Debug\Listing_8_3.exe.config
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\bin\Debug\Listing_8_3.exe
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\bin\Debug\Listing_8_3.pdb
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.exe
+D:\Coding\C#\Visual\Listing_8_3\Listing_8_3\obj\Debug\Listing_8_3.pdb
