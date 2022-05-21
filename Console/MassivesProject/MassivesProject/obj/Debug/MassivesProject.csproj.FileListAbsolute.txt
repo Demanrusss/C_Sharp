@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\MassivesProject\MassivesProject\obj\Debug\MassivesProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\MassivesProject\MassivesProject\obj\Debug\MassivesProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\MassivesProject\MassivesProject\obj\Debug\MassivesProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\MassivesProject\MassivesProject\bin\Debug\MassivesProject.exe.config
+D:\Coding\C#\Console\MassivesProject\MassivesProject\bin\Debug\MassivesProject.exe
+D:\Coding\C#\Console\MassivesProject\MassivesProject\bin\Debug\MassivesProject.pdb
+D:\Coding\C#\Console\MassivesProject\MassivesProject\obj\Debug\MassivesProject.exe
+D:\Coding\C#\Console\MassivesProject\MassivesProject\obj\Debug\MassivesProject.pdb

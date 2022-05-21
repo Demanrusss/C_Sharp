@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\NodesProject\NodesProject\bin\Debug\NodesProject.exe.config
+D:\Coding\C#\Console\NodesProject\NodesProject\bin\Debug\NodesProject.exe
+D:\Coding\C#\Console\NodesProject\NodesProject\bin\Debug\NodesProject.pdb
+D:\Coding\C#\Console\NodesProject\NodesProject\obj\Debug\NodesProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\NodesProject\NodesProject\obj\Debug\NodesProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\NodesProject\NodesProject\obj\Debug\NodesProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\NodesProject\NodesProject\obj\Debug\NodesProject.exe
+D:\Coding\C#\Console\NodesProject\NodesProject\obj\Debug\NodesProject.pdb
