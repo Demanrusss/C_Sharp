@@ -9,17 +9,21 @@ namespace ArrayListProject
         public Form1()
         {
             InitializeComponent();
-        }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            Person person = new Person("Sergei", "Ivanov");
+            Person person = new Person("Name", "Surname");
 
-            person.AddChild("Sergei", "Ivanov");
-            person.AddChild("Alexei", "Ivanov");
-            person.AddChild("Valya", "Ivanov");
+            person.AddChild("Andrei", "Ivanov");
+            person.AddChild("Sasha", "Ivanov");
+            person.AddChild("Pavel", "Kruchev");
 
             person.SortChildren();
+
+            //int i = 0;
+
+            foreach (Person p in person)
+            {
+                listBox1.Items.Add(p.ToString());
+            }
         }
     }
 }

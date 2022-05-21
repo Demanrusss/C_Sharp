@@ -83,5 +83,10 @@ namespace PersonClass
 
             return personName1.CompareTo(personName2);
         }
+
+        public new string ToString()
+        {
+            return Name + " " + Surname;
+        }
     }
 }
