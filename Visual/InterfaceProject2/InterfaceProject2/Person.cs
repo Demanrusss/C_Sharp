@@ -1,5 +1,4 @@
-﻿using System;
-using InterfaceProject2.Interfaces;
+﻿using InterfaceProject2.Interfaces;
 
 namespace InterfaceProject2
 {

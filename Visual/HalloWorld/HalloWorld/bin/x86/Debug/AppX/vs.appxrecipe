@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DEMANRUSSS-PC</Machine>
+    <Machine>DMITRIY_Y</Machine>
     <WindowsUser>User</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>24953EA91641DAA759AF475997876950A7455F37DF9DB7918D0BCCF5A31E4AC0</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>3975715033D5FDD4DF995D255CDEC15DCBE2B1E9C04DB06EFCC3C4CE60E711EA</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d61b9202-71c8-4afa-8582-e0843335c49d_1.0.0.0_x86__4sdaedqydyjdm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d61b9202-71c8-4afa-8582-e0843335c49d_4sdaedqydyjdm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d61b9202-71c8-4afa-8582-e0843335c49d</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-04-02T12:51:33.678</Modified>
+      <Modified>2022-05-21T03:34:01.595</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\HalloWorld.exe">
       <PackagePath>entrypoint\HalloWorld.exe</PackagePath>
-      <Modified>2022-04-02T12:51:33.243</Modified>
+      <Modified>2022-05-21T03:34:01.193</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -496,53 +496,53 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-03-29T16:06:29.188</Modified>
+      <Modified>2022-04-08T10:50:37.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-03-29T15:33:30.307</Modified>
+      <Modified>2022-04-08T10:50:37.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.309</Modified>
+      <Modified>2022-04-08T10:50:37.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.310</Modified>
+      <Modified>2022-04-08T10:50:37.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.310</Modified>
+      <Modified>2022-04-08T10:50:37.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.311</Modified>
+      <Modified>2022-04-08T10:50:37.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.311</Modified>
+      <Modified>2022-04-08T10:50:37.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-29T15:33:30.312</Modified>
+      <Modified>2022-04-08T10:50:37.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\HalloWorld.xr.xml">
       <PackagePath>HalloWorld.xr.xml</PackagePath>
-      <Modified>2022-04-02T12:51:33.207</Modified>
+      <Modified>2022-04-08T10:50:37.958</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-03-30T16:11:43.652</Modified>
+      <Modified>2022-05-21T03:31:39.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-04-02T12:51:33.207</Modified>
+      <Modified>2022-05-21T03:31:39.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -550,11 +550,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-03-30T16:11:45.990</Modified>
+      <Modified>2022-05-21T03:31:41.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding\C#\Visual\HalloWorld\HalloWorld\bin\x86\Debug\Core\HalloWorld.exe">
       <PackagePath>HalloWorld.exe</PackagePath>
-      <Modified>2022-04-02T12:51:33.675</Modified>
+      <Modified>2022-05-21T03:34:01.594</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
