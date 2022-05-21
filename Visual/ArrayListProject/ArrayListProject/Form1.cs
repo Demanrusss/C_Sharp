@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using PersonClass;
 
 namespace ArrayListProject
 {
@@ -15,6 +9,17 @@ namespace ArrayListProject
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Person person = new Person("Sergei", "Ivanov");
+
+            person.AddChild("Sergei", "Ivanov");
+            person.AddChild("Alexei", "Ivanov");
+            person.AddChild("Valya", "Ivanov");
+
+            person.SortChildren();
         }
     }
 }

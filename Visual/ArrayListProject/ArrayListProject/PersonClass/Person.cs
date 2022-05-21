@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System;
 using ArrayListProject;
 
 namespace PersonClass
@@ -55,6 +56,32 @@ namespace PersonClass
         public IEnumerator GetEnumerator()
         {
             return new PersonEnumerator(this);
+        }
+
+        public void SortChildren()
+        {
+            Children.Sort(new SortTest());
+        }
+
+        public int IComparerable(object obj)
+        {
+            Person person = obj as Person;
+            int result = this.Surname.CompareTo(person.Surname);
+
+            if (result == 0)
+            {
+                return this.Name.CompareTo(person.Name);
+            }
+
+            return result;
+        }
+
+        int IComparer(Object person1, Object person2)
+        {
+            string personName1 = ((Person)person1).ToString();
+            string personName2 = ((Person)person2).ToString();
+
+            return personName1.CompareTo(personName2);
         }
     }
 }

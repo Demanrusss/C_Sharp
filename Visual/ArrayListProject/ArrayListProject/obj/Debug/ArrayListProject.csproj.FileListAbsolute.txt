@@ -8,3 +8,4 @@ D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\bin\Debug\ArrayListProject
 D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\bin\Debug\ArrayListProject.pdb
 D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.exe
 D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.pdb
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.Form1.resources
