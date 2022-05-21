@@ -1,0 +1,10 @@
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.Properties.Resources.resources
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\bin\Debug\ArrayListProject.exe.config
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\bin\Debug\ArrayListProject.exe
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\bin\Debug\ArrayListProject.pdb
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.exe
+D:\Coding\C#\Visual\ArrayListProject\ArrayListProject\obj\Debug\ArrayListProject.pdb
