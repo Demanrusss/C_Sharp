@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.Form1.resources
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\bin\Debug\ExceptionProject.exe.config
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\bin\Debug\ExceptionProject.exe
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\bin\Debug\ExceptionProject.pdb
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.exe
+D:\Coding\C_Sharp\Visual\ExceptionProject\ExceptionProject\obj\Debug\ExceptionProject.pdb

@@ -17,18 +17,17 @@ namespace ExceptionProject
             InitializeComponent();
         }
 
+        CarEngine engine = new CarEngine("Number 1");
+
         private void button1_Click(object sender, EventArgs e)
         {
-            CarEngine engine;
-
             try
             {
                 engine.StartEngine();
             }
             catch (EngineException ex)
             {
-                MessageBox.Show("The engine '" + ex.Engine.Name + "'\nIt generated a mistake: '" 
-                    + ex.Message + "'");
+                MessageBox.Show("Engine '" + ex.Engine.Name + "'\ngenerated the exception: '" + ex.Message + "'");
             }
         }
     }
