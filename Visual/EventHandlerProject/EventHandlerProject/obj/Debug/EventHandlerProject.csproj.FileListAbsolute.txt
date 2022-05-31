@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\bin\Debug\EventHandlerProject.exe.config
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\bin\Debug\EventHandlerProject.exe
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\bin\Debug\EventHandlerProject.pdb
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.Form1.resources
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.Properties.Resources.resources
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.exe
+D:\Coding\C#\Visual\EventHandlerProject\EventHandlerProject\obj\Debug\EventHandlerProject.pdb
