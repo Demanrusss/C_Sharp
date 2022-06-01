@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\obj\Debug\ArrayProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe.config
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\bin\Debug\ArrayProject.exe
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\bin\Debug\ArrayProject.pdb
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\obj\Debug\ArrayProject.exe
+D:\Coding\C_Sharp\Console\ArrayProject\ArrayProject\obj\Debug\ArrayProject.pdb
