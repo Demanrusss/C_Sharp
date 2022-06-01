@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\bin\Debug\UnsafeProject.exe.config
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\bin\Debug\UnsafeProject.exe
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\bin\Debug\UnsafeProject.pdb
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.Form1.resources
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.exe
+D:\Coding\C_Sharp\Visual\UnsafeProject\UnsafeProject\obj\Debug\UnsafeProject.pdb
