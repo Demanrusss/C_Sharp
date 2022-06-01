@@ -12,7 +12,7 @@ namespace Listing_11_1
         {
             List<Person> persons = new List<Person>();
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 20; i++)
                 persons.Add(new Person ($"Ivan {i}", $"Ivanov {i}", 15 + i));
             
             return persons;

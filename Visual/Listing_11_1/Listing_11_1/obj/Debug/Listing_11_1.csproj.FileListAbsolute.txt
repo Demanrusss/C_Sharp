@@ -9,3 +9,14 @@ D:\Coding\C#\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.Gene
 D:\Coding\C#\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.CoreCompileInputs.cache
 D:\Coding\C#\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.exe
 D:\Coding\C#\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.pdb
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\bin\Debug\Listing_11_1.exe.config
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\bin\Debug\Listing_11_1.exe
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\bin\Debug\Listing_11_1.pdb
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.Form1.resources
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.exe
+D:\Coding\C_Sharp\Visual\Listing_11_1\Listing_11_1\obj\Debug\Listing_11_1.pdb
