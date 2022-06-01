@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\bin\Debug\AnimationWindow.exe.config
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\bin\Debug\AnimationWindow.exe
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\bin\Debug\AnimationWindow.pdb
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.Form1.resources
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.exe
+D:\Coding\C_Sharp\Visual\AnimationWindow\AnimationWindow\obj\Debug\AnimationWindow.pdb
