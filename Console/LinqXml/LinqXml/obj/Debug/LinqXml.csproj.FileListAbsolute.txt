@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\bin\Debug\LinqXml.exe.config
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\bin\Debug\LinqXml.exe
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\bin\Debug\LinqXml.pdb
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\obj\Debug\LinqXml.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\obj\Debug\LinqXml.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\obj\Debug\LinqXml.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\obj\Debug\LinqXml.exe
+D:\Coding\C_Sharp\Console\LinqXml\LinqXml\obj\Debug\LinqXml.pdb

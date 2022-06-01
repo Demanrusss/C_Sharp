@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export>
+   <person FirstName="Ivan" LastName="Ivanov" Age="32">
+      <address>
+         <city>Rostov</city>
+	 <street>Korolyev</street>
+      </address>
+   </person>
+   <person FirstName="Petr" LastName="Petrov" Age="31">
+      <address>
+         <city>Moskow</city>
+	 <street>Freid</street>
+      </address>
+   </person>
+   <person FirstName="Sergei" LastName="Sidorov" Age="30">
+      <address>
+         <city>Saint Petersburg</city>
+	 <street>Pushkin</street>
+      </address>
+   </person>
+   <person FirstName="Anton" LastName="Uvarov" Age="29">
+      <address>
+         <city>Moskow</city>
+	 <street>Pobeda</street>
+      </address>
+   </person>
+   <person FirstName="Igor" LastName="Zaikin" Age="28">
+      <address>
+         <city>Moskow</city>
+	 <street>Stroitel</street>
+      </address>
+   </person>
+</export>
