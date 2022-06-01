@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\bin\Debug\RegistryProject.exe.config
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\bin\Debug\RegistryProject.exe
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\bin\Debug\RegistryProject.pdb
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.Form1.resources
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.exe
+D:\Coding\C_Sharp\Visual\RegistryProject\RegistryProject\obj\Debug\RegistryProject.pdb
