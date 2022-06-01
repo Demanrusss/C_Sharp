@@ -66,5 +66,6 @@
                 <SolidColorBrush Color="Black" Opacity="0.6" />
             </Polygon.Fill>
         </Polygon>
+        <Image Source="Assets/mainPicture.jpg" Grid.Column="1" Grid.Row="2" Stretch="Uniform"/>
     </Grid>
 </Window>
