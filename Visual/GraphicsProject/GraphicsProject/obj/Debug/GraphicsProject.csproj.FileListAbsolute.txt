@@ -1,0 +1,16 @@
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\bin\Debug\GraphicsProject.exe.config
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\bin\Debug\GraphicsProject.exe
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\bin\Debug\GraphicsProject.pdb
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\MainWindow.g.cs
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\App.g.cs
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject_MarkupCompile.cache
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject_MarkupCompile.lref
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\MainWindow.baml
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.g.resources
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.exe
+D:\Coding\C_Sharp\Visual\GraphicsProject\GraphicsProject\obj\Debug\GraphicsProject.pdb
