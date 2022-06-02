@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\bin\Debug\SaveStringArray.exe.config
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\bin\Debug\SaveStringArray.exe
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\bin\Debug\SaveStringArray.pdb
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.Form1.resources
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.exe
+D:\Coding\C_Sharp\Visual\SaveStringArray\SaveStringArray\obj\Debug\SaveStringArray.pdb
