@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\bin\Debug\DirFileProject.exe.config
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\bin\Debug\DirFileProject.exe
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\bin\Debug\DirFileProject.pdb
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.Form1.resources
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.exe
+D:\Coding\C_Sharp\Visual\DirFileProject\DirFileProject\obj\Debug\DirFileProject.pdb
