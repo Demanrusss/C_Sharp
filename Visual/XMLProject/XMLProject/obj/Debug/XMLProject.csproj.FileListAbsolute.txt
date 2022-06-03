@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\bin\Debug\XMLProject.exe.config
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\bin\Debug\XMLProject.exe
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\bin\Debug\XMLProject.pdb
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.Form1.resources
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.exe
+D:\Coding\C_Sharp\Visual\XMLProject\XMLProject\obj\Debug\XMLProject.pdb
