@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.exe.config
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.exe
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.pdb
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.Form1.resources
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.exe
+D:\Coding\C_Sharp\Visual\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.pdb
