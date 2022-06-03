@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\bin\Debug\TextFileReader.exe.config
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\bin\Debug\TextFileReader.exe
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\bin\Debug\TextFileReader.pdb
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.Form1.resources
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.exe
+D:\Coding\C_Sharp\Visual\TextFileReader\TextFileReader\obj\Debug\TextFileReader.pdb
