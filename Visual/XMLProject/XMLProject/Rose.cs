@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
+using System.Xml;
 
 namespace XMLProject
 {
@@ -14,6 +15,7 @@ namespace XMLProject
         const int DEFAULT_HEIGHT = 46;
         Image roseImage = Properties.Resources.Roze;
 
+        // Constructor of the class
         public Rose(string name, int x, int y)
         {
             this.Name = name;
@@ -48,6 +50,17 @@ namespace XMLProject
             g.DrawImage(roseImage, X, Y, Width, Height);
             g.DrawString(Name, SystemFonts.DefaultFont, SystemBrushes.WindowText,
                 new Point(X, Y + Height));
+        }
+
+        public void SaveToFile(XmlTextWriter xmlOut)
+        {
+            xmlOut.WriteStartElement("Rose");
+            xmlOut.WriteAttributeString("Name", Name);
+            xmlOut.WriteAttributeString("X", X.ToString());
+            xmlOut.WriteAttributeString("Y", Y.ToString());
+            xmlOut.WriteAttributeString("Width", Width.ToString());
+            xmlOut.WriteAttributeString("Height", Height.ToString());
+            xmlOut.WriteEndElement();
         }
 
         #endregion
