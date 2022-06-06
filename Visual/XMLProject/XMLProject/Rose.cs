@@ -63,6 +63,22 @@ namespace XMLProject
             xmlOut.WriteEndElement();
         }
 
+        public void LoadFromFile(XmlTextReader xmlIn)
+        {
+            try
+            {
+                Name = xmlIn.GetAttribute("Name");
+                X = Convert.ToInt32(xmlIn.GetAttribute("X"));
+                Y = Convert.ToInt32(xmlIn.GetAttribute("Y"));
+                Width = Convert.ToInt32(xmlIn.GetAttribute("Width"));
+                Height = Convert.ToInt32(xmlIn.GetAttribute("Height"));
+            }
+            catch (Exception)
+            {
+                // Empty
+            }
+        }
+
         #endregion
     }
 }

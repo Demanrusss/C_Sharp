@@ -49,13 +49,13 @@
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripTextBox1});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(161, 33);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(161, 29);
             // 
             // toolStripTextBox1
             // 
             this.toolStripTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.toolStripTextBox1.Name = "toolStripTextBox1";
-            this.toolStripTextBox1.Size = new System.Drawing.Size(100, 27);
+            this.toolStripTextBox1.Size = new System.Drawing.Size(100, 23);
             // 
             // menuStrip1
             // 
@@ -65,7 +65,8 @@
             this.editToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1015, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(761, 24);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -76,48 +77,50 @@
             this.saveToolStripMenuItem,
             this.saveAsToolStripMenuItem});
             this.openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
-            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(60, 24);
+            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
             this.openFileToolStripMenuItem.Text = "Menu";
             // 
             // openAFileToolStripMenuItem
             // 
             this.openAFileToolStripMenuItem.Name = "openAFileToolStripMenuItem";
-            this.openAFileToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.openAFileToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.openAFileToolStripMenuItem.Text = "Open";
             this.openAFileToolStripMenuItem.Click += new System.EventHandler(this.openAFileToolStripMenuItem_Click);
             // 
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveToolStripMenuItem.Text = "Save";
             // 
             // saveAsToolStripMenuItem
             // 
             this.saveAsToolStripMenuItem.Name = "saveAsToolStripMenuItem";
-            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveAsToolStripMenuItem.Text = "Save as...";
+            this.saveAsToolStripMenuItem.Click += new System.EventHandler(this.saveAsToolStripMenuItem_Click);
             // 
             // editToolStripMenuItem
             // 
             this.editToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.addARoseToolStripMenuItem});
             this.editToolStripMenuItem.Name = "editToolStripMenuItem";
-            this.editToolStripMenuItem.Size = new System.Drawing.Size(49, 26);
+            this.editToolStripMenuItem.Size = new System.Drawing.Size(39, 20);
             this.editToolStripMenuItem.Text = "Edit";
             // 
             // addARoseToolStripMenuItem
             // 
             this.addARoseToolStripMenuItem.Name = "addARoseToolStripMenuItem";
-            this.addARoseToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.addARoseToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
             this.addARoseToolStripMenuItem.Text = "Add a rose";
             this.addARoseToolStripMenuItem.Click += new System.EventHandler(this.addARoseToolStripMenuItem_Click);
             // 
             // designerPanel
             // 
-            this.designerPanel.Location = new System.Drawing.Point(13, 32);
+            this.designerPanel.Location = new System.Drawing.Point(10, 26);
+            this.designerPanel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.designerPanel.Name = "designerPanel";
-            this.designerPanel.Size = new System.Drawing.Size(990, 384);
+            this.designerPanel.Size = new System.Drawing.Size(742, 312);
             this.designerPanel.TabIndex = 3;
             this.designerPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.designerPanel_Paint);
             this.designerPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.designerPanel_MouseDown);
@@ -125,12 +128,11 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1015, 428);
+            this.ClientSize = new System.Drawing.Size(761, 348);
             this.Controls.Add(this.designerPanel);
             this.Controls.Add(this.menuStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.contextMenuStrip1.ResumeLayout(false);

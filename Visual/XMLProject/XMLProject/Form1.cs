@@ -18,6 +18,7 @@ namespace XMLProject
         Rose selectedRose = null;            // selected rose
         Boolean dragging;                    // dragging mode
         Point startDragPoint;                // start point before dragging
+        string filename = "garden";
 
         public Form1()
         {
@@ -27,7 +28,7 @@ namespace XMLProject
         void OpenProject(string newFileName)
         {
             // Clean current document
-            newToolStripMenuItem_Click(null, null);
+            //newToolStripMenuItem_Click(null, null);
 
             // Initialization classes for reading
             FileStream fs = new FileStream(newFileName, FileMode.Open);
@@ -167,7 +168,22 @@ namespace XMLProject
 
         private void openAFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            // Show choice window
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "XML Files|*.xml";
+
+            if (ofd.ShowDialog() != DialogResult.OK)
+                return;
+
+            OpenProject(ofd.FileName);
+        }
+
+        private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "XML Files|*.xml";
+
+            SaveProject();
         }
     }
 }
