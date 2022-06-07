@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\bin\Debug\MemoryStreamProject.exe.config
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\bin\Debug\MemoryStreamProject.exe
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\bin\Debug\MemoryStreamProject.pdb
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\obj\Debug\MemoryStreamProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\obj\Debug\MemoryStreamProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\obj\Debug\MemoryStreamProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\obj\Debug\MemoryStreamProject.exe
+D:\Coding\C_Sharp\Console\MemoryStreamProject\MemoryStreamProject\obj\Debug\MemoryStreamProject.pdb
