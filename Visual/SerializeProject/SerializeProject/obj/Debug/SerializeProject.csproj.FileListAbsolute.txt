@@ -1,0 +1,11 @@
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\bin\Debug\SerializeProject.exe.config
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\bin\Debug\SerializeProject.exe
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\bin\Debug\SerializeProject.pdb
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.Form1.resources
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.Properties.Resources.resources
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.csproj.GenerateResource.cache
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.exe
+D:\Coding\C_Sharp\Visual\SerializeProject\SerializeProject\obj\Debug\SerializeProject.pdb
