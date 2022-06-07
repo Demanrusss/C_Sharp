@@ -18,17 +18,19 @@ namespace XMLProject
         Rose selectedRose = null;            // selected rose
         Boolean dragging;                    // dragging mode
         Point startDragPoint;                // start point before dragging
-        string filename = "garden";
+        
+        string filename = "default";
 
         public Form1()
         {
             InitializeComponent();
         }
 
+        #region Load/Save functions
         void OpenProject(string newFileName)
         {
             // Clean current document
-            //newToolStripMenuItem_Click(null, null);
+            newToolStripMenuItem_Click(null, null);
 
             // Initialization classes for reading
             FileStream fs = new FileStream(newFileName, FileMode.Open);
@@ -107,12 +109,7 @@ namespace XMLProject
             fs.Close();
         }
 
-        private void addARoseToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Rose rose = new Rose("Rose" + roses.Count.ToString(), 0, 0);
-            roses.Add(rose);
-            designerPanel.Invalidate();
-        }
+        #endregion
 
         private void designerPanel_Paint(object sender, PaintEventArgs e)
         {
@@ -130,6 +127,16 @@ namespace XMLProject
                 dragging = true;
                 startDragPoint = e.Location;
                 DrawDraggingShape();
+            }
+        }
+
+        private void designerPanel_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (dragging)
+            {
+                dragging = false;
+                DrawDraggingShape();
+                designerPanel.Invalidate();
             }
         }
 
@@ -166,6 +173,14 @@ namespace XMLProject
             }
         }
 
+        #region Menu events
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            roses.Clear();
+            filename = "";
+            designerPanel.Invalidate();
+        }
+
         private void openAFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Show choice window
@@ -178,12 +193,38 @@ namespace XMLProject
             OpenProject(ofd.FileName);
         }
 
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (filename == "")
+                saveAsToolStripMenuItem_Click(null, null);
+            else
+                SaveProject();
+        }
+
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "XML Files|*.xml";
 
+            if (sfd.ShowDialog() != DialogResult.OK)
+                return;
+
+            filename = sfd.FileName;
             SaveProject();
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void addARoseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Rose rose = new Rose("Rose" + roses.Count.ToString(), 0, 0);
+            roses.Add(rose);
+            designerPanel.Invalidate();
+        }
+
+        #endregion
     }
 }
