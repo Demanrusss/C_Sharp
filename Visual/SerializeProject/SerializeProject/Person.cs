@@ -11,7 +11,15 @@ namespace SerializeProject
     {
         public string Name { get; set; }
         public string Surname { get; set; }
-        public int Age { get; set; }
+        
+        [NonSerialized]
+        int age;
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
         public DateTime Birthday { get; set; }
     }
 }
