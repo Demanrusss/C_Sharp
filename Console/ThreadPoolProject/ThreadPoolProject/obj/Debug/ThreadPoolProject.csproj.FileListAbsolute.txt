@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe.config
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.exe
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\bin\Debug\ThreadPoolProject.pdb
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.exe
+D:\Coding\C_Sharp\Console\ThreadPoolProject\ThreadPoolProject\obj\Debug\ThreadPoolProject.pdb
