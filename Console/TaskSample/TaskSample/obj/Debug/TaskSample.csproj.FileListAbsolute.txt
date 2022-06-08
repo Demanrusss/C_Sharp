@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\bin\Debug\TaskSample.exe.config
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\bin\Debug\TaskSample.exe
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\bin\Debug\TaskSample.pdb
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\obj\Debug\TaskSample.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\obj\Debug\TaskSample.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\obj\Debug\TaskSample.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\obj\Debug\TaskSample.exe
+D:\Coding\C_Sharp\Console\TaskSample\TaskSample\obj\Debug\TaskSample.pdb
