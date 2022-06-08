@@ -8,7 +8,8 @@ using System.Xml.Serialization;
 
 namespace SerializeArray
 {
-    internal class Program
+    [Serializable]
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -29,7 +30,7 @@ namespace SerializeArray
 
             // Load data
             List<Person> persons1 = new List<Person>();
-            FileStream fsin = new FileStream("peoples.dat", FileMode.Open, 
+            FileStream fsin = new FileStream("people.dat", FileMode.Open, 
                 FileAccess.Read);
 
             // Deserialization data
