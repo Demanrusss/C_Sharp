@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\bin\Debug\AppDomainProject.exe.config
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\bin\Debug\AppDomainProject.exe
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\bin\Debug\AppDomainProject.pdb
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\obj\Debug\AppDomainProject.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\obj\Debug\AppDomainProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\obj\Debug\AppDomainProject.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\obj\Debug\AppDomainProject.exe
+D:\Coding\C_Sharp\Console\AppDomainProject\AppDomainProject\obj\Debug\AppDomainProject.pdb
