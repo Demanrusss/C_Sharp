@@ -41,7 +41,7 @@ namespace SerializeArray
 
             // Check up
             foreach (Person person in persons1)
-                Console.WriteLine(person.Name);
+                Console.WriteLine(person.Name + " " + person.DeserializedVersion);
             Console.ReadLine();
         }
     }
