@@ -1,0 +1,8 @@
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe.config
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\bin\Debug\ThreadTest.exe
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\bin\Debug\ThreadTest.pdb
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.AssemblyReference.cache
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\obj\Debug\ThreadTest.exe
+D:\Coding\C_Sharp\Console\ThreadTest\ThreadTest\obj\Debug\ThreadTest.pdb
