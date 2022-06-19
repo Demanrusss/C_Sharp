@@ -1,0 +1,10 @@
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\bin\Debug\DBConnectionProject.exe.config
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\bin\Debug\DBConnectionProject.exe
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\bin\Debug\DBConnectionProject.pdb
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.Properties.Resources.resources
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.exe
+D:\Coding\C#\Visual\DBConnectionProject\DBConnectionProject\obj\Debug\DBConnectionProject.pdb
