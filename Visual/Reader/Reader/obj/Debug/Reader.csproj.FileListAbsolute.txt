@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\Reader\Reader\bin\Debug\Reader.exe.config
+D:\Coding\C#\Visual\Reader\Reader\bin\Debug\Reader.exe
+D:\Coding\C#\Visual\Reader\Reader\bin\Debug\Reader.pdb
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.Form1.resources
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.Properties.Resources.resources
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.exe
+D:\Coding\C#\Visual\Reader\Reader\obj\Debug\Reader.pdb

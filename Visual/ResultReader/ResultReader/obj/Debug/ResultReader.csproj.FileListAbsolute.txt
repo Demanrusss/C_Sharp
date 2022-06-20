@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\ResultReader\ResultReader\bin\Debug\ResultReader.exe.config
+D:\Coding\C#\Visual\ResultReader\ResultReader\bin\Debug\ResultReader.exe
+D:\Coding\C#\Visual\ResultReader\ResultReader\bin\Debug\ResultReader.pdb
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.Form1.resources
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.Properties.Resources.resources
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.exe
+D:\Coding\C#\Visual\ResultReader\ResultReader\obj\Debug\ResultReader.pdb

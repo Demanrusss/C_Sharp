@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\Transaction\Transaction\bin\Debug\Transaction.exe.config
+D:\Coding\C#\Visual\Transaction\Transaction\bin\Debug\Transaction.exe
+D:\Coding\C#\Visual\Transaction\Transaction\bin\Debug\Transaction.pdb
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.Form1.resources
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.Properties.Resources.resources
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.exe
+D:\Coding\C#\Visual\Transaction\Transaction\obj\Debug\Transaction.pdb
