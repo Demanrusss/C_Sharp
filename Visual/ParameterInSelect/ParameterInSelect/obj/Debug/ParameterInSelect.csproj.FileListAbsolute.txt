@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.Form1.resources
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.Properties.Resources.resources
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\bin\Debug\ParameterInSelect.exe.config
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\bin\Debug\ParameterInSelect.exe
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\bin\Debug\ParameterInSelect.pdb
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.exe
+D:\Coding\C#\Visual\ParameterInSelect\ParameterInSelect\obj\Debug\ParameterInSelect.pdb

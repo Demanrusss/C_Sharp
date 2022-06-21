@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\Procedure\Procedure\bin\Debug\Procedure.exe.config
+D:\Coding\C#\Visual\Procedure\Procedure\bin\Debug\Procedure.exe
+D:\Coding\C#\Visual\Procedure\Procedure\bin\Debug\Procedure.pdb
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.Form1.resources
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.Properties.Resources.resources
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.exe
+D:\Coding\C#\Visual\Procedure\Procedure\obj\Debug\Procedure.pdb
