@@ -90,6 +90,23 @@ namespace DataGridViewProject
             // Pointing to connection object
             adapter.UpdateCommand.Connection = connection;
 
+            // Creating command objects for inserting
+            adapter.InsertCommand = new OleDbCommand(
+                @"INSERT INTO Peoples (Фамилия, Имя, ДатаРождения, Пол) 
+                  VALUES (?, ?, ?, ?)");
+
+            // Creating connection parameters
+            adapter.InsertCommand.Parameters.Add("Фамилия", OleDbType.VarChar, 50, 
+                "Фамилия");
+            adapter.InsertCommand.Parameters.Add("Имя", OleDbType.VarChar, 50,
+                "Имя");
+            adapter.InsertCommand.Parameters.Add("ДатаРождения", OleDbType.Date, 0,
+                "ДатаРождения");
+            adapter.InsertCommand.Parameters.Add("Пол", OleDbType.VarChar, 50,
+                "Пол");
+
+            adapter.InsertCommand.Connection = connection;
+
             // Calling for data update
             adapter.Update(dataset.Tables[0]);
 
