@@ -77,7 +77,7 @@ namespace DataGridViewProject
                 "UPDATE Peoples SET Фамилия = ?, Имя = ?, Пол = ? " +
                 "WHERE idKey = ?");
 
-            // Creating connection parameters
+            // Creating command parameters
             adapter.UpdateCommand.Parameters.Add("Фамилия", OleDbType.WChar, 50, 
                 "Фамилия");
             adapter.UpdateCommand.Parameters.Add("Имя", OleDbType.WChar, 50, 
@@ -95,7 +95,7 @@ namespace DataGridViewProject
                 @"INSERT INTO Peoples (Фамилия, Имя, ДатаРождения, Пол) 
                   VALUES (?, ?, ?, ?)");
 
-            // Creating connection parameters
+            // Creating command parameters
             adapter.InsertCommand.Parameters.Add("Фамилия", OleDbType.VarChar, 50, 
                 "Фамилия");
             adapter.InsertCommand.Parameters.Add("Имя", OleDbType.VarChar, 50,
@@ -106,6 +106,16 @@ namespace DataGridViewProject
                 "Пол");
 
             adapter.InsertCommand.Connection = connection;
+
+            // Creating command objects for deleting
+            adapter.DeleteCommand = new OleDbCommand(
+                @"DELETE FROM Peoples
+                  WHERE idKey = ?");
+
+            // Creating command parameters
+            adapter.DeleteCommand.Parameters.Add("IdKey", OleDbType.Integer, 10, "idKey");
+
+            adapter.DeleteCommand.Connection = connection;
 
             // Calling for data update
             adapter.Update(dataset.Tables[0]);
