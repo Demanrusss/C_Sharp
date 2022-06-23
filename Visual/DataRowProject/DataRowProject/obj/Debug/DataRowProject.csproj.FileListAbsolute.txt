@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\bin\Debug\DataRowProject.exe.config
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\bin\Debug\DataRowProject.exe
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\bin\Debug\DataRowProject.pdb
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.Form1.resources
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.Properties.Resources.resources
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.exe
+D:\Coding\C#\Visual\DataRowProject\DataRowProject\obj\Debug\DataRowProject.pdb
