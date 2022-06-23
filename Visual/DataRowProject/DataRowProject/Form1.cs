@@ -66,6 +66,24 @@ namespace DataRowProject
                 for (int i = 1; i < row.ItemArray.Length; i++)
                     item.SubItems.Add(row.ItemArray[i].ToString());
             }
+
+            // Looking for constraints
+            foreach (Constraint ct in _dataSet.Tables[0].Constraints)
+            {
+                if (ct is UniqueConstraint)
+                {
+                    foreach (DataColumn column in ((UniqueConstraint)ct).Columns)
+                        MessageBox.Show(column.Caption);
+                }
+            }
+
+            // Looking for PrimaryKey
+            _dataSet.Tables[0].PrimaryKey = 
+                new DataColumn[] { _dataSet.Tables[0].Columns[0]};
+
+            foreach (Constraint ctPK in _dataSet.Tables[0].Constraints)
+                if (ctPK is UniqueConstraint)
+                    MessageBox.Show(_dataSet.Tables[0].Columns[0].Caption);
         }
     }
 }
