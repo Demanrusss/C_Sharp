@@ -52,6 +52,8 @@ namespace DataRowProject
 
             connection.Close();
 
+            _dataSet.Tables[0].Columns.Add("ФИО", typeof(String), "Фамилия + ' ' + Имя");
+
             // Filling in column names
             foreach (DataColumn column in _dataSet.Tables[0].Columns)
                 listView1.Columns.Add(column.Caption);
