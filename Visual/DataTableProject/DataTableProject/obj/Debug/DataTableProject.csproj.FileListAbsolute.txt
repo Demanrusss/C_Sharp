@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\bin\Debug\DataTableProject.exe.config
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\bin\Debug\DataTableProject.exe
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\bin\Debug\DataTableProject.pdb
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.Form1.resources
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.Properties.Resources.resources
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.exe
+D:\Coding\C#\Visual\DataTableProject\DataTableProject\obj\Debug\DataTableProject.pdb
