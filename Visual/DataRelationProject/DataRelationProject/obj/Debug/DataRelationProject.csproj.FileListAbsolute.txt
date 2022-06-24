@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\bin\Debug\DataRelationProject.exe.config
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\bin\Debug\DataRelationProject.exe
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\bin\Debug\DataRelationProject.pdb
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.Form1.resources
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.Properties.Resources.resources
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.exe
+D:\Coding\C#\Visual\DataRelationProject\DataRelationProject\obj\Debug\DataRelationProject.pdb
