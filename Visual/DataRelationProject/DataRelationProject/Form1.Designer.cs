@@ -32,6 +32,7 @@
             this.addressDataGridView = new System.Windows.Forms.DataGridView();
             this.findAddressButton = new System.Windows.Forms.Button();
             this.findPersonButton = new System.Windows.Forms.Button();
+            this.showConstraintsButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.peopleDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.addressDataGridView)).BeginInit();
             this.SuspendLayout();
@@ -76,11 +77,22 @@
             this.findPersonButton.UseVisualStyleBackColor = true;
             this.findPersonButton.Click += new System.EventHandler(this.findPersonButton_Click);
             // 
+            // showConstraintsButton
+            // 
+            this.showConstraintsButton.Location = new System.Drawing.Point(267, 415);
+            this.showConstraintsButton.Name = "showConstraintsButton";
+            this.showConstraintsButton.Size = new System.Drawing.Size(147, 23);
+            this.showConstraintsButton.TabIndex = 4;
+            this.showConstraintsButton.Text = "Show constraints";
+            this.showConstraintsButton.UseVisualStyleBackColor = true;
+            this.showConstraintsButton.Click += new System.EventHandler(this.showConstraintsButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.showConstraintsButton);
             this.Controls.Add(this.findPersonButton);
             this.Controls.Add(this.findAddressButton);
             this.Controls.Add(this.addressDataGridView);
@@ -99,6 +111,7 @@
         private System.Windows.Forms.DataGridView addressDataGridView;
         private System.Windows.Forms.Button findAddressButton;
         private System.Windows.Forms.Button findPersonButton;
+        private System.Windows.Forms.Button showConstraintsButton;
     }
 }
 

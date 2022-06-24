@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\bin\Debug\SelfRelationProject.exe.config
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\bin\Debug\SelfRelationProject.exe
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\bin\Debug\SelfRelationProject.pdb
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.Form1.resources
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.Properties.Resources.resources
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.exe
+D:\Coding\C#\Visual\SelfRelationProject\SelfRelationProject\obj\Debug\SelfRelationProject.pdb

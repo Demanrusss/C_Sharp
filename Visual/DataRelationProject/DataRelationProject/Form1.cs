@@ -85,5 +85,18 @@ namespace DataRelationProject
                 _dataset.Tables[1].Rows[index].GetParentRow("People_Address");
             MessageBox.Show(row.ItemArray[1].ToString());
         }
+
+        private void showConstraintsButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(_dataset.Tables[0].Constraints.Count.ToString());
+
+            UniqueConstraint unique = 
+                (UniqueConstraint)_dataset.Tables[0].Constraints[0];
+            MessageBox.Show(unique.Columns[0].Caption);
+
+            ForeignKeyConstraint foreignKey =
+                (ForeignKeyConstraint)_dataset.Tables[1].Constraints[0];
+            MessageBox.Show(foreignKey.Columns[0].Caption);
+        }
     }
 }
