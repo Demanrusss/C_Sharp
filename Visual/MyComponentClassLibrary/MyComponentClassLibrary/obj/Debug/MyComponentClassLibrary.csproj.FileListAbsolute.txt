@@ -1,0 +1,6 @@
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\bin\Debug\MyComponentClassLibrary.dll
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\bin\Debug\MyComponentClassLibrary.pdb
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\obj\Debug\MyComponentClassLibrary.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\obj\Debug\MyComponentClassLibrary.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\obj\Debug\MyComponentClassLibrary.dll
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibrary\obj\Debug\MyComponentClassLibrary.pdb
