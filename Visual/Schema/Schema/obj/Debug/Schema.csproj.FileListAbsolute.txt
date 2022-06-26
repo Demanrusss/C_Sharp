@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\Schema\Schema\bin\Debug\Schema.exe.config
+D:\Coding\C#\Visual\Schema\Schema\bin\Debug\Schema.exe
+D:\Coding\C#\Visual\Schema\Schema\bin\Debug\Schema.pdb
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.Form1.resources
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.Properties.Resources.resources
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.exe
+D:\Coding\C#\Visual\Schema\Schema\obj\Debug\Schema.pdb
