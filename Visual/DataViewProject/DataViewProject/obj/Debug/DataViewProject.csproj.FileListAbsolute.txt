@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\bin\Debug\DataViewProject.exe.config
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\bin\Debug\DataViewProject.exe
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\bin\Debug\DataViewProject.pdb
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.Form1.resources
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.Properties.Resources.resources
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.exe
+D:\Coding\C#\Visual\DataViewProject\DataViewProject\obj\Debug\DataViewProject.pdb
