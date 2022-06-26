@@ -1,0 +1,14 @@
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\bin\Debug\PersonLibraryTest.exe.config
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\bin\Debug\PersonLibraryTest.exe
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\bin\Debug\PersonLibraryTest.pdb
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\bin\Debug\PersonLibrary.dll
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\bin\Debug\PersonLibrary.pdb
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.Form1.resources
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.Properties.Resources.resources
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.csproj.CopyComplete
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.exe
+D:\Coding\C#\Visual\PersonLibrary\PersonLibraryTest\obj\Debug\PersonLibraryTest.pdb
