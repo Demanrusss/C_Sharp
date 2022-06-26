@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\bin\Debug\FilterRecordProject.exe.config
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\bin\Debug\FilterRecordProject.exe
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\bin\Debug\FilterRecordProject.pdb
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.Form1.resources
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.Properties.Resources.resources
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.exe
+D:\Coding\C#\Visual\FilterRecordProject\FilterRecordProject\obj\Debug\FilterRecordProject.pdb
