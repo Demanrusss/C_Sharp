@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\bin\Debug\RemotingServer.exe.config
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\bin\Debug\RemotingServer.exe
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\bin\Debug\RemotingServer.pdb
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\bin\Debug\GeneralLibraryPrj.dll
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\bin\Debug\GeneralLibraryPrj.pdb
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.csproj.CopyComplete
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.exe
+D:\Coding\C#\Visual\RemotingServer\RemotingServer\obj\Debug\RemotingServer.pdb
