@@ -1,0 +1,8 @@
+D:\Coding\C#\Console\HttpClient\HttpClient\bin\Debug\HttpClient.exe.config
+D:\Coding\C#\Console\HttpClient\HttpClient\bin\Debug\HttpClient.exe
+D:\Coding\C#\Console\HttpClient\HttpClient\bin\Debug\HttpClient.pdb
+D:\Coding\C#\Console\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.AssemblyReference.cache
+D:\Coding\C#\Console\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Console\HttpClient\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Console\HttpClient\HttpClient\obj\Debug\HttpClient.exe
+D:\Coding\C#\Console\HttpClient\HttpClient\obj\Debug\HttpClient.pdb
