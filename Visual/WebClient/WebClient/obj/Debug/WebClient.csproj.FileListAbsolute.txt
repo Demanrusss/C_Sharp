@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\WebClient\WebClient\bin\Debug\WebClient.exe.config
+D:\Coding\C#\Visual\WebClient\WebClient\bin\Debug\WebClient.exe
+D:\Coding\C#\Visual\WebClient\WebClient\bin\Debug\WebClient.pdb
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.Form1.resources
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.Properties.Resources.resources
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.exe
+D:\Coding\C#\Visual\WebClient\WebClient\obj\Debug\WebClient.pdb
