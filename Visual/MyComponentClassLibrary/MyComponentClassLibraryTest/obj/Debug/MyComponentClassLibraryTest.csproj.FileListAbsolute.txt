@@ -1,0 +1,14 @@
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\bin\Debug\MyComponentClassLibraryTest.exe.config
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\bin\Debug\MyComponentClassLibraryTest.exe
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\bin\Debug\MyComponentClassLibraryTest.pdb
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\bin\Debug\MyComponentClassLibrary.dll
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\bin\Debug\MyComponentClassLibrary.pdb
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.Form1.resources
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.Properties.Resources.resources
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.csproj.CopyComplete
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.exe
+D:\Coding\C#\Visual\MyComponentClassLibrary\MyComponentClassLibraryTest\obj\Debug\MyComponentClassLibraryTest.pdb
