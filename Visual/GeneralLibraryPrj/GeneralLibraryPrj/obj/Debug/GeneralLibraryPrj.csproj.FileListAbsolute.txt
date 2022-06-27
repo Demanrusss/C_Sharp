@@ -1,0 +1,6 @@
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\bin\Debug\GeneralLibraryPrj.dll
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\bin\Debug\GeneralLibraryPrj.pdb
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\obj\Debug\GeneralLibraryPrj.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\obj\Debug\GeneralLibraryPrj.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\obj\Debug\GeneralLibraryPrj.dll
+D:\Coding\C#\Visual\GeneralLibraryPrj\GeneralLibraryPrj\obj\Debug\GeneralLibraryPrj.pdb
