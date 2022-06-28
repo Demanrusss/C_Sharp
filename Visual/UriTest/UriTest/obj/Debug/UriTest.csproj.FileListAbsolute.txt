@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\UriTest\UriTest\bin\Debug\UriTest.exe.config
+D:\Coding\C#\Visual\UriTest\UriTest\bin\Debug\UriTest.exe
+D:\Coding\C#\Visual\UriTest\UriTest\bin\Debug\UriTest.pdb
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.Form1.resources
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.Properties.Resources.resources
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.exe
+D:\Coding\C#\Visual\UriTest\UriTest\obj\Debug\UriTest.pdb
