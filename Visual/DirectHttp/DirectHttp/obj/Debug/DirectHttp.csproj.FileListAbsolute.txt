@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\bin\Debug\DirectHttp.exe.config
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\bin\Debug\DirectHttp.exe
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\bin\Debug\DirectHttp.pdb
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.Form1.resources
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.Properties.Resources.resources
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.exe
+D:\Coding\C#\Visual\DirectHttp\DirectHttp\obj\Debug\DirectHttp.pdb
