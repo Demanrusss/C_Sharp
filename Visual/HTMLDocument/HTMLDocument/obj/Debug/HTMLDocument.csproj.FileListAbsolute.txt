@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.exe.config
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.exe
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\bin\Debug\HTMLDocument.pdb
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.Form1.resources
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.Properties.Resources.resources
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.exe
+D:\Coding\C#\Visual\HTMLDocument\HTMLDocument\obj\Debug\HTMLDocument.pdb
