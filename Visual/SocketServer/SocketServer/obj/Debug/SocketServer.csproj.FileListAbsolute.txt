@@ -1,0 +1,11 @@
+D:\Coding\C#\Visual\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Coding\C#\Visual\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Coding\C#\Visual\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Coding\C#\Visual\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
