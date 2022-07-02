@@ -3,5 +3,51 @@
 	Hello again. Home is working
 </h1>
 
-<p>First name: @Model.FirstName</p>
+@* Simple output *@
+
+<p>@Int32.Parse("123") * 2</p>
+<p>@(Int32.Parse("123") * 2)</p>
+
+<p>First name: @("Mr ".ToUpper() + Model.FirstName)</p>
 <p>Last name: @Model.LastName</p>
+
+<hr />
+
+@* C# code, but it is better to do it in controller *@
+
+@{
+	WebApplication1.Controllers.HomeController.Person p = 
+		new WebApplication1.Controllers.HomeController.Person();
+	p.FirstName = "Mikhail";
+	p.LastName = "Flenov";
+	p.Age = 15;
+}
+
+<p>First name: @("Mr ".ToUpper() + p.FirstName)</p>
+<p>Last name: @p.LastName</p>
+
+@if (p.Age < 14)
+{
+	<p>You are too young</p>
+}
+else if (p.Age < 18)
+{
+	<p>Your age is not enough</p>
+}
+else
+{
+	<p>So now you have to go working</p>
+}
+
+@switch(Model.Age)
+{
+	case 10:
+		<p>10 is an Anniversary</p>
+		break;
+	case 15:
+		<p>Congrats @Model.Age</p>
+		break;
+	default:
+		<p>Default</p>
+		break;
+}

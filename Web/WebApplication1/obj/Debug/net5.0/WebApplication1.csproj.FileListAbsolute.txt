@@ -31,3 +31,5 @@ D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\List.cshtml.g.cs
