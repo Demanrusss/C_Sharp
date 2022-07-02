@@ -1,16 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.ViewModel;
 
 namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
-        public class Person
-        {
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-            public int Age { get; set; }
-        }
-
         public IActionResult List()
         {
             Person[] people = new Person[]
@@ -25,6 +19,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Title = "Welcome";
             return View("Index", new Person() { FirstName = "John", LastName = "Doe", Age = 10});
         }
 

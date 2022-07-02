@@ -1,15 +1,15 @@
 ﻿@*We can easily put this in order to not declare whole namespace*@
-@using WebApplication1.Controllers;
+@using WebApplication1.ViewModel;
 
 @*Without using it will be like 
 	@model WebApplication1.Controllers.HomeController.Person[]*@
-@model HomeController.Person[]
+@model Person[]
 
 <h2>Foreach loop</h2>
 <ul>
-	@foreach (HomeController.Person person in Model)  @*Or @foreach (var person in Model)*@
+	@foreach (Person person in Model)  @*Or @foreach (var person in Model)*@
 	{
-		<li>@person.FirstName</li>
+		@await Html.PartialAsync("~/Views/Widgets/Person.cshtml", person)
 	}
 </ul>
 
@@ -17,7 +17,7 @@
 <ul>
 	@for (int j = 0; j < Model.Length; j++)
 	{
-		<li>@Model[j].FirstName</li>
+		@await Html.PartialAsync("~/Views/Widgets/Person.cshtml", Model[j])
 	}
 </ul>
 
@@ -26,7 +26,7 @@
 	@{ int i = 0;}
 	@while (i < Model.Length)
 	{
-		<li>@Model[i].LastName @Model[i].FirstName</li>
+		@await Html.PartialAsync("~/Views/Widgets/Person.cshtml", Model[i])
 		i = i + 1;
 	}
 </ul>
@@ -36,7 +36,7 @@
 	@{int index = 0;}
 	@do
 	{
-		<li>@Model[index].FirstName @Model[index].LastName</li>
+		@await Html.PartialAsync("~/Views/Widgets/Person.cshtml", Model[index])
 		index = index + 1;
 	} while(index < Model.Length);
 </ul>

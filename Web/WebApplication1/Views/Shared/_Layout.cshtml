@@ -1,0 +1,28 @@
+﻿<html>
+	<head>
+		<title>@ViewBag.Title</title>
+		<style>
+			header {
+				padding: 20px;
+				background: #eee;
+			}
+			footer {
+				padding: 20px;
+				background: #1ee;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<a href="/">Home</a>
+			<a href="/About/Index">About</a>
+			<a href="/Home/List">List</a>
+		</header>
+		<div>
+			@RenderBody()
+		</div>
+		<footer>
+			<p>Copyright: Demanrusss</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+﻿@model WebApplication1.ViewModel.Navigation
+
+<div>
+	Found
+	<a href="/@Model.PageName/index?page=1">&lt;</a>
+	@for (int i = 1; i < Model.Pages; i++) {
+		<a href="/@Model.PageName/index?page=@i">@i</a>
+	}
+	<a href="/@Model.PageName/@Model.Pages">&gt;</a>
+</div>

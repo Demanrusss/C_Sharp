@@ -2,15 +2,27 @@
 
 namespace WebApplication1.Controllers
 {
-    [Route("wof/about")]
+    [Route("about")]
 
     public class AboutController : Controller
     {
-        [Route("Error")] // It is not index anymore as default
+        [Route("index")]
 
-        public string Index(string id, string p)
+        public IActionResult Index()
         {
-            return "So now 'About' is working too. id=" + id + " p=" + p;
+            return View();
         }
     }
+
+    [Route("wof/about")]
+
+    public class WofAboutController: Controller
+	{
+        [Route("error")]
+
+        public string About()
+		{
+            return "This is really About-page but the address is different";
+		}
+	}
 }

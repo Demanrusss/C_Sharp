@@ -34,7 +34,7 @@ namespace WebApplication1
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+                endpoints.MapGet("/index", async context =>
                 {
                     await context.Response.WriteAsync(config["HelloMessage"]);
                 });

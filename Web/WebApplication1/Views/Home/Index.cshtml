@@ -1,7 +1,12 @@
-﻿@model WebApplication1.Controllers.HomeController.Person
+﻿@model WebApplication1.ViewModel.Person
+
 <h1>
 	Hello again. Home is working
 </h1>
+
+@Html.Partial("~/Views/Widgets/Navigation.cshtml", new WebApplication1.ViewModel.Navigation() { CurrentPage = 1, FoundItems = 40, PageName = "Home"})
+
+@await Html.PartialAsync("~/Views/Widgets/Person.cshtml", Model)
 
 @* Simple output *@
 
@@ -16,8 +21,8 @@
 @* C# code, but it is better to do it in controller *@
 
 @{
-	WebApplication1.Controllers.HomeController.Person p = 
-		new WebApplication1.Controllers.HomeController.Person();
+	WebApplication1.ViewModel.Person p = 
+		new WebApplication1.ViewModel.Person();
 	p.FirstName = "Mikhail";
 	p.LastName = "Flenov";
 	p.Age = 15;
@@ -51,3 +56,5 @@ else
 		<p>Default</p>
 		break;
 }
+
+@Html.Partial("~/Views/Widgets/Navigation.cshtml", new WebApplication1.ViewModel.Navigation() { CurrentPage = 1, FoundItems = 40, PageName = "Home"})

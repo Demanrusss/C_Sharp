@@ -33,3 +33,8 @@ D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\List.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Widgets\Navigation.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Widgets\Person.cshtml.g.cs
