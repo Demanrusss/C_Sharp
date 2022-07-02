@@ -20,3 +20,14 @@ D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\refint\WebApplication1.dll
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+D:\Coding\C#\Web\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+D:\Coding\C#\Web\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
