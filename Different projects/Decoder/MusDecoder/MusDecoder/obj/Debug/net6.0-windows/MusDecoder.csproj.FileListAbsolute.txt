@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.Form1.resources
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.AssemblyInfo.cs
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.exe
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.deps.json
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.runtimeconfig.json
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.dll
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.pdb
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.dll
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\refint\MusDecoder.dll
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.pdb
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.genruntimeconfig.cache
+C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\ref\MusDecoder.dll
