@@ -18,7 +18,7 @@ namespace MusDecoder.io
             hash = hashCode;
         }
 
-        private byte Encode(int b)
+        private byte Encode(byte b)
         {
             byte b2 = (byte)(b ^ hash >> 8);
             hash = hash * 498729871 + 85731 * b;
@@ -28,7 +28,7 @@ namespace MusDecoder.io
         //@Override
         public void Write(byte b)
         {
-            fs.Write(Encode((byte)b));
+            fs.WriteByte(Encode(b));
         }
 
         //@Override
