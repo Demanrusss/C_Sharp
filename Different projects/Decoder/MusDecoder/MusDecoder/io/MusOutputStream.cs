@@ -18,7 +18,7 @@ namespace MusDecoder.io
             hash = hashCode;
         }
 
-        private byte Encode(byte b)
+        private byte Encode(int b)
         {
             byte b2 = (byte)(b ^ hash >> 8);
             hash = hash * 498729871 + 85731 * b;
