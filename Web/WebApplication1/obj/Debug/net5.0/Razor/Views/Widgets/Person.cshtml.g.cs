@@ -13,6 +13,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9abc6a95542c97498d97b3ec43172ff243496f66", @"/Views/Widgets/Person.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b3281d7acb4dd7f2af62139ba297faf35e8720c2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Widgets_Person : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<WebApplication1.ViewModel.Person>
     #nullable disable

@@ -17,12 +17,14 @@
 			<a href="/">Home</a>
 			<a href="/About/Index">About</a>
 			<a href="/Home/List">List</a>
+			@await Component.InvokeAsync("User")
 		</header>
 		<div>
 			@RenderBody()
 		</div>
 		<footer>
 			<p>Copyright: Demanrusss</p>
+			<vc:user></vc:user>
 		</footer>
 	</body>
 </html>

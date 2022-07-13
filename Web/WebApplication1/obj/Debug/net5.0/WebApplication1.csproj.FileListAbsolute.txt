@@ -38,3 +38,5 @@ D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.csh
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Widgets\Navigation.cshtml.g.cs
 D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Widgets\Person.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Components\User\User.cshtml.g.cs
+D:\Coding\C#\Web\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs

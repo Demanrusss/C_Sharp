@@ -1,0 +1,7 @@
+﻿@model WebApplication1.ViewModel.Person
+@if (Model.IsLoggedIn) {
+	<p>Welcome: @Model.UserName</p>
+}
+else{
+	<p>Please, log in</p>
+}

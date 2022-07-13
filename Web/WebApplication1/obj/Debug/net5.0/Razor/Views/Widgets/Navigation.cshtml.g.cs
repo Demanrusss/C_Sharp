@@ -13,6 +13,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e6d92bd6ae6651cd923373a06d44e4c0c821b812", @"/Views/Widgets/Navigation.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b3281d7acb4dd7f2af62139ba297faf35e8720c2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Widgets_Navigation : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<WebApplication1.ViewModel.Navigation>
     #nullable disable

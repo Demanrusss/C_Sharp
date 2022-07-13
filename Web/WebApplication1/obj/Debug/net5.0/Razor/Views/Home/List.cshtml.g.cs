@@ -20,6 +20,7 @@ using WebApplication1.ViewModel;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bf1ed470e2045f5fb751265b7d9eb0930a3f1fd5", @"/Views/Home/List.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b3281d7acb4dd7f2af62139ba297faf35e8720c2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_List : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Person[]>
     #nullable disable
