@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Decoder\\MusDecoder\\MusDecoder\\MusDecoder.csproj",
+      "projectUniqueName": "D:\\Coding\\C#\\Different projects\\Decoder\\MusDecoder\\MusDecoder\\MusDecoder.csproj",
       "projectName": "MusDecoder",
-      "projectPath": "C:\\Users\\User\\Desktop\\Decoder\\MusDecoder\\MusDecoder\\MusDecoder.csproj",
+      "projectPath": "D:\\Coding\\C#\\Different projects\\Decoder\\MusDecoder\\MusDecoder\\MusDecoder.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Decoder\\MusDecoder\\MusDecoder\\obj\\",
+      "outputPath": "D:\\Coding\\C#\\Different projects\\Decoder\\MusDecoder\\MusDecoder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

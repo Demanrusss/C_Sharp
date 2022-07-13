@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,13 +10,15 @@ namespace MusDecoder.io
     public class MusInputStream
     {
         private int hash;
+        private FileStream fs;
 
-        public MusInputStream(FileStream in, int hashCode)
+        public MusInputStream(FileStream fileStream, int hashCode)
         {
+            fs = fileStream;
             hash = hashCode;
         }
 
-        private byte decode(byte b)
+        private byte Decode(byte b)
         {
             b = (byte)(b ^ hash >> 8);
             hash = hash * 498729871 + 85731 * b;
@@ -24,20 +26,20 @@ namespace MusDecoder.io
         }
 
         //@Override
-        public int read()
+        public int Read()
         {
-            return decode((byte)in.read());
+            return Decode((byte)fs.ReadByte());
         }
 
         //@Override
-        public int read(byte[] b, int off, int len)
+        public int Read(byte[] b, int off, int len)
         {
-            len = read(b, off, len);
+            len = Read(b, off, len);
                 
             for (int i = 0; i < len; ++i)
-                b[off + i] = decode(b[off + i]);
+                b[off + i] = Decode(b[off + i]);
 
             return len;
         }
     }
-}*/
+}
