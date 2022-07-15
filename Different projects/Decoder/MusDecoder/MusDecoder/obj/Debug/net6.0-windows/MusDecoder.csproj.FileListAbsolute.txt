@@ -15,3 +15,20 @@ C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\ref
 C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.pdb
 C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.genruntimeconfig.cache
 C:\Users\User\Desktop\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\ref\MusDecoder.dll
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.exe
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.deps.json
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.runtimeconfig.json
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.dll
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\bin\Debug\net6.0-windows\MusDecoder.pdb
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.AssemblyReference.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.Form1.resources
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.GenerateResource.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.AssemblyInfoInputs.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.AssemblyInfo.cs
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.dll
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\refint\MusDecoder.dll
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.pdb
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.genruntimeconfig.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\ref\MusDecoder.dll
