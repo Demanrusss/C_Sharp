@@ -9,29 +9,27 @@ namespace MusDecoder.io
 {
     public class MusInputStream
     {
-        private int hash;
-        private FileStream fs;
+        private int _hash;
+        private FileStream _fs;
 
         public MusInputStream(FileStream fileStream, int hashCode)
         {
-            fs = fileStream;
-            hash = hashCode;
+            _fs = fileStream;
+            _hash = hashCode;
         }
 
         private byte Decode(byte b)
         {
-            b = (byte)(b ^ hash >> 8);
-            hash = hash * 498729871 + 85731 * b;
+            b = (byte)(b ^ _hash >> 8);
+            _hash = _hash * 498729871 + 85731 * b;
             return b;
         }
 
-        //@Override
         public int Read()
         {
-            return Decode((byte)fs.ReadByte());
+            return Decode((byte)_fs.ReadByte());
         }
 
-        //@Override
         public int Read(byte[] b, int off, int len)
         {
             len = Read(b, off, len);

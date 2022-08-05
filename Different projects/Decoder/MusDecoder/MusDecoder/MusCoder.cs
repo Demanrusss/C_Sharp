@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using MusDecoder.io;
 
 namespace MusDecoder
 {
@@ -13,14 +14,16 @@ namespace MusDecoder
         {
         }
 
- /*       public static void decode(FileStream musFile)
+        public static void decode(FileStream musFile)
         {
-            String oggPath = File.removeExtension(musFile.getPath()) + ".ogg";
-            FileStream oggFile = new FileStream(oggPath);
+            String oggPath = 
+                Path.Combine(Path.GetFileNameWithoutExtension(musFile.Name), ".ogg");
+            FileStream oggFile = new FileStream(oggPath, FileMode.OpenOrCreate);
 
-            MusInputStream is = new MusInputStream(new FileInputStream(musFile), musFile.getName().hashCode());
-            FileUtils.copyInputStreamToFile(is, oggFile);
+            MusInputStream mis = new MusInputStream(musFile, musFile.Name.GetHashCode());
+
+            musFile.Close();
             FileUtils.deleteQuietly(musFile);
-        }*/
+        }
     }
 }
