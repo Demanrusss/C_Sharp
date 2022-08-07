@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace MusDecoder.io
+namespace MusDecoder.IO
 {
     public class MusInputStream
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace MusDecoder.io
+namespace MusDecoder.IO
 {
     public class MusOutputStream
     {
@@ -25,19 +25,17 @@ namespace MusDecoder.io
             return b2;
         }
 
-        //@Override
         public void Write(byte b)
         {
             fs.WriteByte(Encode(b));
         }
 
-        //@Override
         public void Write(byte[] b, int off, int len)
         {
             for (int i = 0; i < len; ++i)
                 b[off + i] = Encode(b[off + i]);
 
-                fs.Write(b, off, len);
+            fs.Write(b, off, len);
         }
     }
 }

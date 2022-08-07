@@ -32,3 +32,4 @@ D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-w
 D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.pdb
 D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.genruntimeconfig.cache
 D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\ref\MusDecoder.dll
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.Properties.Resources.resources

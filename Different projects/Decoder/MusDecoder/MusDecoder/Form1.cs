@@ -5,12 +5,14 @@ namespace MusDecoder
 {
     public partial class Form1 : Form
     {
+        private string _openedFileName = "";
+
         public Form1()
         {
             InitializeComponent();
         }
 
-        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        public void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
 
@@ -18,40 +20,41 @@ namespace MusDecoder
                 return;
 
             string filename = ofd.FileName;
+            _openedFileName = filename;
 
             byte[] bufer = new byte[1024];
             ASCIIEncoding ascii = new ASCIIEncoding();
-//            UnicodeEncoding unicode = new UnicodeEncoding();
 
             FileStream fs = File.OpenRead(filename);
             int readed = fs.Read(bufer, 0, 1024);
 
             while (readed > 0)
             {
-                richTextBox1.AppendText(ascii.GetString(bufer, 0, readed));
+                beforeDecodingRichTextBox.AppendText(ascii.GetString(bufer, 0, readed));
                 readed = fs.Read(bufer, 0, 1024);
             }
+
+            fs.Close();
         }
 
-        private void encodingToOggToolStripMenuItem_Click(object sender, EventArgs e)
+        public void decodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            richTextBox1.Clear();
+            FileStream fs = new FileStream(_openedFileName, FileMode.Open);
 
-            OpenFileDialog ofd = new OpenFileDialog();
-            if (ofd.ShowDialog() == DialogResult.Cancel)
-                return;
+            MusCoder.Transcode(fs);
 
-            string filename = ofd.FileName;
-
-            int hash = ofd.GetHashCode();
+ /*           int hash = filename.GetHashCode();
 
             ASCIIEncoding ascii = new ASCIIEncoding();
-            //            UnicodeEncoding unicode = new UnicodeEncoding();
+ //           UnicodeEncoding unicode = new UnicodeEncoding();
 
             FileStream fs = File.OpenRead(filename);
             int b = fs.ReadByte();
 
-            using (FileStream fsMus = new FileStream(filename + ".mus", FileMode.OpenOrCreate))
+            using (FileStream fsMus = new FileStream(
+                Path.Combine(
+                    Path.GetFileNameWithoutExtension(filename), ".mus"),
+                FileMode.OpenOrCreate))
             {
                 MessageBox.Show(b.ToString());
 
@@ -62,7 +65,16 @@ namespace MusDecoder
                     hash = hash * 498729871 + 85731 * b;
                     fsMus.WriteByte(b2);
                 } while (b != -1);
-            }
+
+                byte[] bufer = new byte[1024];
+                int readed = fs.Read(bufer, 0, 1024);
+
+                while (readed > 0)
+                {
+                    afterDecodingRichTextBox.AppendText(ascii.GetString(bufer, 0, readed));
+                    readed = fs.Read(bufer, 0, 1024);
+                }
+            }*/
         }
     }
 }

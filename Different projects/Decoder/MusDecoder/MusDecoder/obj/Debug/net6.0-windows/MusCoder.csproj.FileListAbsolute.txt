@@ -1,0 +1,7 @@
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.csproj.AssemblyReference.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusDecoder.Form1.resources
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.csproj.GenerateResource.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.AssemblyInfoInputs.cache
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.AssemblyInfo.cs
+D:\Coding\C#\Different projects\Decoder\MusDecoder\MusDecoder\obj\Debug\net6.0-windows\MusCoder.csproj.CoreCompileInputs.cache

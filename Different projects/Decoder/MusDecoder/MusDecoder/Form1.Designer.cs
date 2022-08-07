@@ -31,11 +31,12 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.encodingToOggToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.decodeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
-            this.label1 = new System.Windows.Forms.Label();
+            this.beforeDecodingRichTextBox = new System.Windows.Forms.RichTextBox();
+            this.afterDecodingRichTextBox = new System.Windows.Forms.RichTextBox();
+            this.afterDecodingLabel = new System.Windows.Forms.Label();
+            this.beforeDecodingLabel = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,7 +55,7 @@
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.openToolStripMenuItem,
-            this.encodingToOggToolStripMenuItem,
+            this.decodeToolStripMenuItem,
             this.saveToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(46, 24);
@@ -69,10 +70,10 @@
             // 
             // encodingToOggToolStripMenuItem
             // 
-            this.encodingToOggToolStripMenuItem.Name = "encodingToOggToolStripMenuItem";
-            this.encodingToOggToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.encodingToOggToolStripMenuItem.Text = "Encoding to ogg";
-            this.encodingToOggToolStripMenuItem.Click += new System.EventHandler(this.encodingToOggToolStripMenuItem_Click);
+            this.decodeToolStripMenuItem.Name = "decodeToolStripMenuItem";
+            this.decodeToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.decodeToolStripMenuItem.Text = "Decode";
+            this.decodeToolStripMenuItem.Click += new System.EventHandler(this.decodeToolStripMenuItem_Click);
             // 
             // saveToolStripMenuItem
             // 
@@ -80,43 +81,53 @@
             this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.saveToolStripMenuItem.Text = "Save";
             // 
-            // richTextBox1
+            // beforeDecodingRichTextBox
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 31);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(373, 407);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.beforeDecodingRichTextBox.Location = new System.Drawing.Point(12, 57);
+            this.beforeDecodingRichTextBox.Name = "beforeDecodingRichTextBox";
+            this.beforeDecodingRichTextBox.Size = new System.Drawing.Size(373, 381);
+            this.beforeDecodingRichTextBox.TabIndex = 1;
+            this.beforeDecodingRichTextBox.Text = "";
             // 
-            // richTextBox2
+            // afterDecodingRichTextBox
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(391, 66);
-            this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(397, 372);
-            this.richTextBox2.TabIndex = 2;
-            this.richTextBox2.Text = "";
+            this.afterDecodingRichTextBox.Location = new System.Drawing.Point(391, 57);
+            this.afterDecodingRichTextBox.Name = "afterDecodingRichTextBox";
+            this.afterDecodingRichTextBox.Size = new System.Drawing.Size(397, 381);
+            this.afterDecodingRichTextBox.TabIndex = 2;
+            this.afterDecodingRichTextBox.Text = "";
             // 
-            // label1
+            // afterDecodingLabel
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(391, 34);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(108, 20);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "After encoding";
+            this.afterDecodingLabel.AutoSize = true;
+            this.afterDecodingLabel.Location = new System.Drawing.Point(680, 34);
+            this.afterDecodingLabel.Name = "afterDecodingLabel";
+            this.afterDecodingLabel.Size = new System.Drawing.Size(111, 20);
+            this.afterDecodingLabel.TabIndex = 3;
+            this.afterDecodingLabel.Text = "After Decoding";
+            // 
+            // beforeDecodingLabel
+            // 
+            this.beforeDecodingLabel.AutoSize = true;
+            this.beforeDecodingLabel.Location = new System.Drawing.Point(266, 34);
+            this.beforeDecodingLabel.Name = "beforeDecodingLabel";
+            this.beforeDecodingLabel.Size = new System.Drawing.Size(122, 20);
+            this.beforeDecodingLabel.TabIndex = 4;
+            this.beforeDecodingLabel.Text = "Before Decoding";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.richTextBox2);
-            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.beforeDecodingLabel);
+            this.Controls.Add(this.afterDecodingLabel);
+            this.Controls.Add(this.afterDecodingRichTextBox);
+            this.Controls.Add(this.beforeDecodingRichTextBox);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Mus&Ogg Decoder";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -130,9 +141,10 @@
         private ToolStripMenuItem fileToolStripMenuItem;
         private ToolStripMenuItem openToolStripMenuItem;
         private ToolStripMenuItem saveToolStripMenuItem;
-        private RichTextBox richTextBox1;
-        private ToolStripMenuItem encodingToOggToolStripMenuItem;
-        private RichTextBox richTextBox2;
-        private Label label1;
+        private RichTextBox beforeDecodingRichTextBox;
+        private ToolStripMenuItem decodeToolStripMenuItem;
+        private RichTextBox afterDecodingRichTextBox;
+        private Label afterDecodingLabel;
+        private Label beforeDecodingLabel;
     }
 }
