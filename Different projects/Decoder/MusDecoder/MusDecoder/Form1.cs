@@ -5,7 +5,7 @@ namespace MusDecoder
 {
     public partial class Form1 : Form
     {
-        private string _openedFileName = "";
+        private string _openedFilePath = String.Empty;
 
         public Form1()
         {
@@ -19,14 +19,19 @@ namespace MusDecoder
             if (ofd.ShowDialog() == DialogResult.Cancel)
                 return;
 
-            string filename = ofd.FileName;
-            _openedFileName = filename;
+            _openedFilePath = ofd.FileName;
+            
+            printOut(_openedFilePath);
+        }
+
+        private void printOut(string filePath)
+        {
+            FileStream fs = File.OpenRead(filePath);
 
             byte[] bufer = new byte[1024];
-            ASCIIEncoding ascii = new ASCIIEncoding();
-
-            FileStream fs = File.OpenRead(filename);
             int readed = fs.Read(bufer, 0, 1024);
+
+            ASCIIEncoding ascii = new ASCIIEncoding();
 
             while (readed > 0)
             {
@@ -39,9 +44,14 @@ namespace MusDecoder
 
         public void decodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FileStream fs = new FileStream(_openedFileName, FileMode.Open);
-
-            MusCoder.Transcode(fs);
+            try
+            {
+                MusCoder.Transcode(_openedFilePath);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("You didn't open a file.\n", ex.Message);
+            }
 
  /*           int hash = filename.GetHashCode();
 

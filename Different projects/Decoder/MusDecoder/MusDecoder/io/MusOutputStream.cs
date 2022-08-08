@@ -9,25 +9,25 @@ namespace MusDecoder.IO
 {
     public class MusOutputStream
     {
-        private int hash;
-        private FileStream fs;
+        private int _hash;
+        private FileStream _fs;
 
         public MusOutputStream(FileStream fileStream, int hashCode)
         {
-            fs = fileStream;
-            hash = hashCode;
+            _fs = fileStream;
+            _hash = hashCode;
         }
 
         private byte Encode(byte b)
         {
-            byte b2 = (byte)(b ^ hash >> 8);
-            hash = hash * 498729871 + 85731 * b;
+            byte b2 = (byte)(b ^ _hash >> 8);
+            _hash = _hash * 498729871 + 85731 * b;
             return b2;
         }
 
         public void Write(byte b)
         {
-            fs.WriteByte(Encode(b));
+            _fs.WriteByte(Encode(b));
         }
 
         public void Write(byte[] b, int off, int len)
@@ -35,7 +35,7 @@ namespace MusDecoder.IO
             for (int i = 0; i < len; ++i)
                 b[off + i] = Encode(b[off + i]);
 
-            fs.Write(b, off, len);
+            _fs.Write(b, off, len);
         }
     }
 }

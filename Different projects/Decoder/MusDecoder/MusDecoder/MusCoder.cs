@@ -10,17 +10,21 @@ namespace MusDecoder
 {
     public class MusCoder
     {
-        public static void Transcode(FileStream file)
+        private static string _extension = String.Empty;
+
+        public static void Transcode(string file)
         {
-            string? ext = Path.GetExtension(file.Name);
+            string? ext = Path.GetExtension(file);
 
             if (ext.Equals(".mus"))
             {
+                _extension = ".ogg";
                 Decode(file);
             } 
             else if (ext.Equals(".ogg"))
             {
-                Encode(file);
+                _extension = ".mus";
+                Decode(file);
             }
             else
             {
@@ -28,34 +32,34 @@ namespace MusDecoder
             }
         }
 
-        public static void Decode(FileStream musFile)
+        public static void Decode(string file)
         {
-            string oggPath = 
-                Path.GetFileNameWithoutExtension(musFile.Name) + ".ogg";
-            
-            FileStream oggFile = new FileStream(oggPath, FileMode.OpenOrCreate);
+            FileStream inputFile = 
+                new FileStream(file, FileMode.Open, FileAccess.Read);
 
-            MusInputStream mis = new MusInputStream(musFile, musFile.Name.GetHashCode());
+            string outFilePath = Path.ChangeExtension(file, _extension);
 
-            musFile.Close();
+            FileStream outputFile = 
+                new FileStream(outFilePath, FileMode.OpenOrCreate, FileAccess.Write);
+
+            MusInputStream mis = 
+                new MusInputStream(inputFile, inputFile.Name.GetHashCode());
+
+            mis.
+
+            inputFile.Close();
+            outputFile.Close();
         }
 
-        public static void Encode(FileStream oggFile)
+ /*       public static void Encode(FileStream oggFile)
         {
-//            FileStream inOggFile = null;
-//            FileStream outOggFile = null;
-
-            string musPath = 
-                Path.Combine(Path.GetFileNameWithoutExtension(oggFile.Name), ".mus");
+            string musPath = Path.ChangeExtension(oggFile.Name, ".mus");
+ 
             FileStream musFile = new FileStream(musPath, FileMode.OpenOrCreate);
+            MusOutputStream mos = new MusOutputStream(oggFile, oggFile.Name.GetHashCode());
 
- /*           try
-            {
-                inOggFile = File.OpenRead(oggFile.Name);
-                outOggFile = new MusOutputStream(musFile, musFile.Name.GetHashCode());
-                File.Copy(inOggFile, outOggFile);
-                IOUtils.closeQuietly(is);
-            } */
-        }
+            oggFile.Close();
+            musFile.Close();
+        }*/
     }
 }
