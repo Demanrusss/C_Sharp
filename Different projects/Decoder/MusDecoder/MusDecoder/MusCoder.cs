@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using MusDecoder.IO;
 
 namespace MusDecoder
 {
     public class MusCoder
     {
+        public static string outFilePath = String.Empty;
+
         private static string _extension = String.Empty;
 
         public static void Transcode(string file)
@@ -32,34 +33,47 @@ namespace MusDecoder
             }
         }
 
-        public static void Decode(string file)
+        private static void Decode(string file)
         {
-            FileStream inputFile = 
-                new FileStream(file, FileMode.Open, FileAccess.Read);
+            try
+            {
+                FileStream inputFile =
+                    new FileStream(file, FileMode.Open, FileAccess.Read);
 
-            string outFilePath = Path.ChangeExtension(file, _extension);
+                outFilePath = Path.ChangeExtension(file, _extension);
 
-            FileStream outputFile = 
-                new FileStream(outFilePath, FileMode.OpenOrCreate, FileAccess.Write);
+                FileStream outputFile =
+                    new FileStream(outFilePath, FileMode.Create, FileAccess.Write);
 
-            MusInputStream mis = 
-                new MusInputStream(inputFile, inputFile.Name.GetHashCode());
+                using (BinaryReader binReader = new BinaryReader(inputFile))
+                {
+                    using (BinaryWriter binWriter = new BinaryWriter(outputFile))
+                    {
+                        byte readByte;
+                        byte toWriteByte;
+                        int hash = inputFile.GetHashCode();
+                        byte[] buffer = new byte[inputFile.Length];
+                        int i = 0;
 
-            mis.
+                        do
+                        {
+                            readByte = binReader.ReadByte();
+                            toWriteByte = ByteDecode.Decode(readByte, hash);
+                            buffer[i++] = toWriteByte;
 
-            inputFile.Close();
-            outputFile.Close();
+                        } while (binReader.ReadByte() != 0);
+
+                        binWriter.Write(buffer);
+                    }
+                }
+
+                inputFile.Close();
+                outputFile.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Something went wrong with\n {ex.Message}");
+            }
         }
-
- /*       public static void Encode(FileStream oggFile)
-        {
-            string musPath = Path.ChangeExtension(oggFile.Name, ".mus");
- 
-            FileStream musFile = new FileStream(musPath, FileMode.OpenOrCreate);
-            MusOutputStream mos = new MusOutputStream(oggFile, oggFile.Name.GetHashCode());
-
-            oggFile.Close();
-            musFile.Close();
-        }*/
     }
 }

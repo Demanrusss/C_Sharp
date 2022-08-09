@@ -32,7 +32,7 @@
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.decodeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.openAfterDecodingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.beforeDecodingRichTextBox = new System.Windows.Forms.RichTextBox();
             this.afterDecodingRichTextBox = new System.Windows.Forms.RichTextBox();
             this.afterDecodingLabel = new System.Windows.Forms.Label();
@@ -56,7 +56,7 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.openToolStripMenuItem,
             this.decodeToolStripMenuItem,
-            this.saveToolStripMenuItem});
+            this.openAfterDecodingToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(46, 24);
             this.fileToolStripMenuItem.Text = "File";
@@ -64,22 +64,23 @@
             // openToolStripMenuItem
             // 
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
             this.openToolStripMenuItem.Text = "Open";
             this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
-            // encodingToOggToolStripMenuItem
+            // decodeToolStripMenuItem
             // 
             this.decodeToolStripMenuItem.Name = "decodeToolStripMenuItem";
-            this.decodeToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.decodeToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
             this.decodeToolStripMenuItem.Text = "Decode";
             this.decodeToolStripMenuItem.Click += new System.EventHandler(this.decodeToolStripMenuItem_Click);
             // 
-            // saveToolStripMenuItem
+            // openAfterDecodingToolStripMenuItem
             // 
-            this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.saveToolStripMenuItem.Text = "Save";
+            this.openAfterDecodingToolStripMenuItem.Name = "openAfterDecodingToolStripMenuItem";
+            this.openAfterDecodingToolStripMenuItem.Size = new System.Drawing.Size(232, 26);
+            this.openAfterDecodingToolStripMenuItem.Text = "Open after Decoding";
+            this.openAfterDecodingToolStripMenuItem.Click += new System.EventHandler(this.openAfterDecodingToolStripMenuItem_Click);
             // 
             // beforeDecodingRichTextBox
             // 
@@ -140,7 +141,7 @@
         private MenuStrip menuStrip1;
         private ToolStripMenuItem fileToolStripMenuItem;
         private ToolStripMenuItem openToolStripMenuItem;
-        private ToolStripMenuItem saveToolStripMenuItem;
+        private ToolStripMenuItem openAfterDecodingToolStripMenuItem;
         private RichTextBox beforeDecodingRichTextBox;
         private ToolStripMenuItem decodeToolStripMenuItem;
         private RichTextBox afterDecodingRichTextBox;

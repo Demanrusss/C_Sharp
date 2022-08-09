@@ -26,20 +26,22 @@ namespace MusDecoder
 
         private void printOut(string filePath)
         {
-            FileStream fs = File.OpenRead(filePath);
-
-            byte[] bufer = new byte[1024];
-            int readed = fs.Read(bufer, 0, 1024);
-
-            ASCIIEncoding ascii = new ASCIIEncoding();
-
-            while (readed > 0)
+            using (FileStream fs = File.OpenRead(filePath))
             {
-                beforeDecodingRichTextBox.AppendText(ascii.GetString(bufer, 0, readed));
-                readed = fs.Read(bufer, 0, 1024);
-            }
+                beforeDecodingRichTextBox.Clear();
 
-            fs.Close();
+                byte[] bufer = new byte[1024];
+                int readed = fs.Read(bufer, 0, 1024);
+
+                ASCIIEncoding ascii = new ASCIIEncoding();
+
+                while (readed > 0)
+                {
+                    beforeDecodingRichTextBox.AppendText(ascii.GetString(bufer, 0, readed));
+                    readed = fs.Read(bufer, 0, 1024);
+                }
+
+            }
         }
 
         public void decodeToolStripMenuItem_Click(object sender, EventArgs e)
@@ -52,39 +54,25 @@ namespace MusDecoder
             {
                 MessageBox.Show("You didn't open a file.\n", ex.Message);
             }
+        }
 
- /*           int hash = filename.GetHashCode();
-
-            ASCIIEncoding ascii = new ASCIIEncoding();
- //           UnicodeEncoding unicode = new UnicodeEncoding();
-
-            FileStream fs = File.OpenRead(filename);
-            int b = fs.ReadByte();
-
-            using (FileStream fsMus = new FileStream(
-                Path.Combine(
-                    Path.GetFileNameWithoutExtension(filename), ".mus"),
-                FileMode.OpenOrCreate))
+        private void openAfterDecodingToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (FileStream fs = File.OpenRead(MusCoder.outFilePath))
             {
-                MessageBox.Show(b.ToString());
-
-                do
-                {
-                    b = fs.ReadByte();
-                    byte b2 = (byte)(b ^ hash >> 8);
-                    hash = hash * 498729871 + 85731 * b;
-                    fsMus.WriteByte(b2);
-                } while (b != -1);
+                afterDecodingRichTextBox.Clear();
 
                 byte[] bufer = new byte[1024];
                 int readed = fs.Read(bufer, 0, 1024);
+
+                ASCIIEncoding ascii = new ASCIIEncoding();
 
                 while (readed > 0)
                 {
                     afterDecodingRichTextBox.AppendText(ascii.GetString(bufer, 0, readed));
                     readed = fs.Read(bufer, 0, 1024);
                 }
-            }*/
+            }
         }
     }
 }
