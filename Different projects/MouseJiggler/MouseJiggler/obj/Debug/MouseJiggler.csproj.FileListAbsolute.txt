@@ -1,0 +1,11 @@
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\bin\Debug\MouseJiggler.exe.config
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\bin\Debug\MouseJiggler.exe
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\bin\Debug\MouseJiggler.pdb
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.csproj.AssemblyReference.cache
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.csproj.SuggestedBindingRedirects.cache
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.MainForm.resources
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.Properties.Resources.resources
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.csproj.GenerateResource.cache
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.exe
+D:\Coding\C#\Different projects\MouseJiggler\MouseJiggler\obj\Debug\MouseJiggler.pdb
